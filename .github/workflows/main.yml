@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Pipeling setup
-        run: echo Build starting ...
+        run: echo Build starting ... ${{ secrets.REACT_APP_BACKEND_URL }} 
 
       # Runs a set of commands using the runners shell
       - name: Last Arzi Build
