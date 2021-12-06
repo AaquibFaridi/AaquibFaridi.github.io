@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Pipeling setup
-        run: echo $REACT_APP_BACKEND_URL
+        run: echo ${{ secrets.ENV_PRODUCTION_FILE }} | base64 -d 
         env:
           REACT_APP_BACKEND_URL: ${{ secrets.REACT_APP_BACKEND_URL }}
 
