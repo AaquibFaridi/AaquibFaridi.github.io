@@ -8,7 +8,9 @@ import PopUp from 'utility/Popup'
 
 const App = () => {
 	const [manageFailure, setManageFailure] = useState(false)
-	axios.defaults.baseURL = process.env.BACKEND_URL || 'http://localhost:5000'
+	const backendUrl = process.env.REACT_APP_BACKEND_URL;
+	alert(backendUrl);
+	axios.defaults.baseURL = backendUrl
 	//axios.defaults.baseURL = 'https://testlastazri.herokuapp.com'
 
 	// axios.interceptors.response.use(
