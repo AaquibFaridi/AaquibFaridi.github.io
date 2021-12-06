@@ -1,0 +1,721 @@
+{
+	"EditProfile": {
+		"Reset": "Reset",
+		"Warning": "Please fill out this field",
+		"AddInfo": "Add Info",
+		"SaveChanges": "Save Changes",
+		"Information": "Information",
+		"Subscription": "Subscription",
+		"ContactUs": "Contact Us",
+		"Notifications": "Notifications",
+		"Updates": "Updates",
+		"Description": "Description",
+		"Select": "Select a topic",
+		"Attachments": "Attachments",
+		"Choose": "Choose File",
+		"NoFile": "No File Chosen"
+	},
+	"Information": {
+		"Salutaion": "Salutaion",
+		"FirstName ": "First Name ",
+		"MiddleName": "Middle Name",
+		"LastName ": "Last Name ",
+		"Languages": "Languages",
+		"Select": "Select",
+		"Dob": "Date of birth",
+		"PrimaryEmail": "Primary Email",
+		"SecondaryEmail": "Secondary Email",
+		"PrimaryContact": "Primary Contact",
+		"SecondaryContact": "Secondary Contact",
+		"Communication ": "Communication ",
+		"AddressLine1": "Address Line 1",
+		"AddressLine2": "Address Line 2",
+		"Pincode": "Pincode",
+		"City": "City",
+		"State": "State",
+		"Country": "Country",
+		"Email ": "Email ",
+		"SMS ": "SMS ",
+		"Phone ": "Phone ",
+		"Theme ": "Theme ",
+		"Dark ": "Dark ",
+		"Light ": "Light ",
+		"Gender ": "Gender ",
+		"Male ": "Male ",
+		"Female ": "Female ",
+		"Others ": "Others ",
+		"PwdMsg": "Password Show Time in Password Vault ",
+		"3 Seconds ": "3 Seconds ",
+		"5 Seconds ": "5 Seconds ",
+		"10 Seconds": "10 Seconds"
+	},
+	"Portfolio": {
+		"Portfolio": "Portfolio",
+		"Assets List": "Assets List",
+		"Liabilities List": "Liabilities List"
+	},
+	"Spends": {
+		"heading": "Daily Spends",
+		"subHeading": "Add New Spend",
+		"totalCount": "Total Count",
+		"searchText": "Search Spends Log",
+		"cancelButton": "Cancel",
+		"addButton": "Add",
+		"updateButton": "Update",
+		"acceptButton": "Accept",
+		"messageOptionText": "Select Message Type",
+		"itemText": "Item",
+		"labelText": "Label",
+		"dateText": "Date",
+		"amountText": "Amount",
+		"descriptionText": "Description",
+		"labels": [
+			"Groceries",
+			"Cigretes",
+			"Drink",
+			"Party",
+			"Fees",
+			"Rent",
+			"Travel",
+			"Snacks",
+			"Fuel",
+			"others"
+		],
+		"filtersText": "Filters"
+	},
+	"Diary": {
+		"heading": "Secret Diary",
+		"subHeading": "Add Note",
+		"cancelButton": "Cancel",
+		"addNotes": "Add Notes",
+		"addButton": "Add",
+		"updateButton": "Update",
+		"acceptButton": "Accept",
+		"messageOptionText": "Select Message Type",
+		"titleText": "Title",
+		"labelsText": "Labels",
+		"allText": "All",
+		"updateText": "Update Note",
+		"searchText": "Search",
+		"labels": ["Personal", "Professional", "Others", "TO DO List"],
+		"filtersText": "Filters",
+		"filter": ["Starred", "Important", "Completed", "Trashed"],
+		"descriptionText": "Description",
+		"contentType": ["Text", "Scribble", "Attachment", "Voice", "Video"]
+	},
+	"Documents": {
+		"heading": "My Documents",
+		"subHeading": "Upload any file, scans, documents",
+		"resetButton": "Reset",
+		"addButton": "Add Document",
+		"acceptButton": "Accept",
+		"documentsForText": "Documents For",
+		"mandatoryText": "Mandatory Field Missing!",
+		"documentsPreviewText": "Preview Selected files",
+		"documentsDragText": "Drag 'n' drop some files here, or Click to Select files",
+		"documentsVisibilityText": "Your documents will only be visible for 5 seconds!",
+		"documentsPopText": "",
+		"aliasText": "Attachment Name / Alias",
+		"descriptionText": "Description",
+		"dateText": "Expiry Date",
+		"documentsOptionText": "Select Documents Type"
+	},
+	"Nominee": {
+		"heading": "Manage Nominees",
+		"subHeading": "ADD NEW NOMINEE",
+		"cancelButton": "Cancel",
+		"addButton": "Add",
+		"acceptButton": "Accept",
+		"textList": "Liabilities List",
+		"nomineeAddText": "Add New Nominee",
+		"searchText": "Find Nominees",
+		"nomineeTotalText": "Total Count",
+
+		"nomineeTableName": "Name",
+		"nomineeTableRelation": "Relation",
+		"nomineeTableEmail": "Email",
+		"nomineeTableContact": "Contact",
+		"nomineeTableActions": "Actions",
+
+		"nomineeFormName": "Name",
+		"nomineeFormRelation": "Relation",
+		"nomineeFormEmail": "Email",
+		"nomineeFormAddress": "Address",
+		"nomineeFormContact": "Contact",
+		"nomineeFormSecondaryContact": "Secondary Contact",
+		"nomineeFormActions": "Actions",
+
+		"nomineeNameHolder": "Nominee Name",
+		"nomineeRelationOption": [
+			"Son",
+			"Daughter",
+			"Husband",
+			"Wife",
+			"Son-in-law",
+			"Daughter-in-law",
+			"Cousin",
+			"Friend",
+			"Colluege",
+			"others"
+		],
+		"nomineeEmailHolder": "Enter Nominee Email",
+		"nomineeAddressHolder": "Address",
+		"nomineeContactHolder": "Enter Primary Contact No.",
+		"nomineeSecondaryContactHolder": "Enter Secondary Contact No.",
+		"nomineeActionsHolder": "Actions"
+	},
+	"Password": {
+		"heading": "Liabilities",
+		"subHeading": "Add New Password",
+		"resetButton": "Reset",
+		"addButton": "Add",
+		"acceptButton": "Accept",
+		"textList": "Liabilities List",
+		"pwdForText": "Password For",
+		"mandatoryText": "Mandatory FIeld Missing!",
+		"pwdIdentityText": "Confirm your identity",
+		"pwdDeleteText": "Password deleted successfully",
+		"pwdVisibilityText": "Your password will only be visible for 5 seconds!",
+		"pwdPopText": "Enter your login password to continue",
+		"pwsSavedText": "Saved Passwords",
+		"passwordText": "Password",
+		"userNameText": "User Name",
+		"passwordOptionText": "Select Password Type",
+		"passwordOption": {
+			"Bank": "Bank",
+			"Email": "Email",
+			"Card": "Card",
+			"Social": "Social",
+			"HealthCare": "HealthCare",
+			"App": "App",
+			"Goverment": "Goverment",
+			"Office": "Office",
+			"Educational": "Educational",
+			"E-commerce": "E-commerce",
+			"Finance": "Finance",
+			"Custom": "Custom"
+		}
+	},
+	"Liability": {
+		"heading": "Liabilities",
+		"subHeading": "Add New liability",
+		"resetButton": "Reset",
+		"submitButton": "Submit",
+		"textList": "Liabilities List",
+		"liabilityOptionText": "Select liability Type...",
+		"nomineeOption": "Select Nominees",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "Liability Name",
+					"val": "",
+					"type": "Text"
+				}
+			],
+			"Notes": [
+				{
+					"key": "Notes",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Expiry Date",
+					"val": "",
+					"type": "Date"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "Bank Name",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Card Limit",
+					"val": "",
+					"type": "Number"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "Bank Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Loan Account Number",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Loan Amount",
+					"val": "",
+					"type": "Number"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "Bank Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Policy Number",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Policy Amount",
+					"val": "",
+					"type": "Number"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "Object Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Warranty Period",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Bill Amount",
+					"val": "",
+					"type": "Number"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "Description",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Return Period",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Amount",
+					"val": "",
+					"type": "Number"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "Object Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Description",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Expiry",
+					"val": "",
+					"type": "Number"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "Custom",
+			"Notes": "Notes",
+			"Credit Card": "Credit Card",
+			"Loan Amount": "Loan Amount",
+			"Insurance": "Insurance",
+			"Warranty": "Warranty",
+			"Ponzi": "Ponzi",
+			"Receipt": "Receipt"
+		}
+	},
+	"Asset": {
+		"heading": "Assets",
+		"subHeading": "Add New Asset",
+		"resetButton": "Reset",
+		"submitButton": "Submit",
+		"textList": "Assets List",
+		"assetOptionText": "Select Asset Type",
+		"nomineeOption": "Select Nominee Type",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "Asset Name",
+					"val": "",
+					"type": "Text"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "Account No",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Bank Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Branch",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD Accrount No",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "FD Amount",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Bank Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "FD Maturity Date",
+					"val": "",
+					"type": "Date"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+
+			"Policy": [
+				{
+					"key": "Policy Number",
+					"val": "",
+					"type": "number"
+				},
+
+				{
+					"key": "Policy Name",
+					"val": "",
+					"type": "text"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Property": [
+				{
+					"key": "Property Type",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Property Location",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Property Area",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "Portfolio No",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Value",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Type",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF No",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "Gratuity No",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "Bill Name",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Debtor Date*",
+					"val": "",
+					"type": "Date"
+				},
+				{
+					"key": "Bill Amount",
+					"val": "",
+					"type": "Number"
+				},
+				{
+					"key": "Expiry Date",
+					"val": "",
+					"type": "Date"
+				},
+				{
+					"key": "Warraty Period (if applicable)",
+					"val": "",
+					"type": "Text"
+				},
+				{
+					"key": "Remarks",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Attachments",
+					"val": "",
+					"type": "File"
+				}
+			]
+		},
+		"colorOption1": [
+			{
+				"value": "Bank Holdings",
+				"label": "Bank Holdings",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Fixed Deposit",
+				"label": "Fixed Deposit",
+				"color": "#0052CC",
+				"isFixed": true
+			},
+			{
+				"value": "Policy",
+				"label": "Policy",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Property",
+				"label": "Property",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Mutual Fund",
+				"label": "Mutual Fund",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Provident Fund",
+				"label": "Provident Fund",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Gratuity",
+				"label": "Gratuity",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Bills & Credits",
+				"label": "Bills & Credits",
+				"color": "#00B8D9",
+				"isFixed": true
+			},
+			{
+				"value": "Custom",
+				"label": "Custom",
+				"color": "#0052CC",
+				"isFixed": true
+			}
+		]
+	},
+	"Dashboard": {
+		"asset": "Asset",
+		"assetText": "Bank Holdings, FD, RD, Insurance, Properties etc.",
+		"liability": "Liabilities",
+		"liabilityText": "Loan, EMI, Cash borrowed etc with collateral details",
+		"vault": "Vault",
+		"vaultText": "Save your passwords like cards, credentials in your secret vault.",
+		"nominees": "Nominees",
+		"nomineesText": "Manage your nominees for your assets & liabities",
+		"spends": " Daily Spends",
+		"spendsText": "Log your daily spends in your secret spends list and analyze your spenditure.",
+		"documents": "Documents",
+		"documentsText": "Upload you documents, pics in your own secret vault",
+		"diary": "Secret Diary",
+		"diaryText": "Log your daily thoughts and secrets in your own secret diary",
+		"portfolio": "Portfolio",
+		"portfolioText": "View and analyze your portfolio of saved assets and liabilties"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid goodbye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace",
+		"submsg": "What WILL you leave behind",
+		"Feature": "Feature",
+		"WhyLastArzi": "Why Last Arzi",
+		"Plans": "Plans",
+		"Downloadmsg": "You can access your account from any platform",
+		"Android": "Android",
+		"iOS": "iOS",
+		"Web": "Web",
+		"Query/Feedback": "Query/Feedback",
+		"Email": "Email",
+		"Contact Number": "Contact Number"
+	},
+	"SignUP": {
+		"PhoneNumber": "Phone Number",
+		"Name": "Name",
+		"Email": "Email",
+		"ConfirmPassword": "Confirm Password",
+		"Next": "Next",
+		"Secret": "Secret",
+		"Question": "Question",
+		"Answer": "Answer",
+		"signup": "Signup",
+		"signin": "Signin",
+		"Username": "Username",
+		"Password": "Password",
+		"SendOTP": "Send OTP",
+		"signinmsg": "Haven`t registered ...",
+		"signupmsg": "Already registered ...",
+		"ForgotPassword": "Forgot Password",
+		"SelectCountry": "Select Country",
+		"EnterMobileNumber": "Enter Mobile Number",
+		"Download ": "Download ",
+		"DarkTheme": "Dark Theme",
+		"TermsConditions": "Terms & Conditions",
+		"SelectLanguage": "Select Language",
+		"PrivacyPolicy": "Privacy Policy",
+		"ContactUs": "Contact Us"
+	},
+	"Navbar": {
+		"toatMsg": "Good to see you back"
+	},
+	"Plans": {
+		"Services": "Services",
+		"Premium": "Premium",
+		"Advanced": "Advanced",
+		"Basic": "Basic",
+		"NoLimits": "No Limits",
+		"Assets": "Assets",
+		"Liabilities": "Liabilities",
+		"SecretDiary": "Secret Diary",
+		"DailySpends": "Daily Spends",
+		"PasswordVault": "Password Vault",
+		"DocumentLocker": "Document Locker",
+		"DeclareNominees": "Declare Nominees",
+		"Recordmessages": "Record Audio/Video messages",
+		"LegalMsg": "Get legal help for will generation"
+	},
+	"Sender": {
+		"heading": "Sender",
+		"subHeading": "Save, schedule, send text, audio, video messages",
+		"cancelButton": "Cancel",
+		"addButton": "Add",
+		"updateButton": "Update",
+		"deleteButton": "Delete",
+		"messageOptionText": "Select Message Type",
+		"titleText": "Title",
+		"allText": "All",
+		"updateText": "Update Note",
+		"searchText": "Search",
+		"descriptionText": "Description",
+		"contentType": ["Text", "Voice", "Video"],
+		"audioText": {
+			"upload": "Upload",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

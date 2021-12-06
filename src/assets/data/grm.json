@@ -1,0 +1,599 @@
+{
+	"EditProfile": {
+		"heading": "Modifier le profil",
+		"subSection1": "compte",
+		"subSection2": "information",
+		"salutaion": "salutation",
+		"firstname": "prénom",
+		"middlename": "Deuxième prénom",
+		"lastname": "nom",
+		"primaryEmail": "E-mail principal",
+		"primaryContact": "Contact principal",
+		"secondaryEmail": "E-mail secondaire",
+		"secondaryContact": "Contact secondaire",
+		"dob": "Date de naissance",
+		"resetButton": "réinitialisation",
+		"saveButton": "Enregistrer les modifications",
+		"personalInfo": "Informations personnelles",
+		"address": "adresse",
+		"addressline1": "Adresszeile eins",
+		"addressline2": "Adresszeile 2",
+		"pincode": "Pin-Code",
+		"city": "Stadt",
+		"state": "Staat",
+		"country": "Land",
+		"communication": "Kommunikation",
+		"email": "E-Mail",
+		"SMS": "Sms",
+		"phone": "Telefon",
+		"theme": "Thema",
+		"dark": "dunkel",
+		"light": "Licht",
+		"gender": "Geschlecht",
+		"male": "Männlich",
+		"female": "Weiblich",
+		"others": "Andere",
+		"pwdText": "Kennwort-Zeit in Passwort-Tresor anzeigen",
+		"time1": "3 Sekunden",
+		"time2": "5 Sekunden",
+		"time3": "10 Sekunden",
+		"languagesholder": "Sprache",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "Portfolio",
+		"Assets List": "Assets-Liste",
+		"Liabilities List": "Haftungsliste"
+	},
+	"Spends": {
+		"heading": "Tägliche Ausgaben",
+		"subHeading": "Neue Ausgaben hinzufügen",
+		"totalCount": "Gesamtanzahl",
+		"searchText": "Search Spends Log",
+		"cancelButton": "Abbrechen",
+		"addButton": "Hinzufügen",
+		"updateButton": "aktualisieren",
+		"acceptButton": "Akzeptieren",
+		"messageOptionText": "Nachrichtentyp auswählen",
+		"itemText": "Artikel",
+		"labelText": "Etikett",
+		"dateText": "Datum",
+		"amountText": "Menge",
+		"descriptionText": "Beschreibung",
+		"labels": {
+			"Groceries": "Lebensmittel",
+			"Cigretes": " Zigarette",
+			"Drink": "Trinken",
+			"Party": "Partei",
+			"Fees": "Gebühren",
+			"Rent": "Mieten",
+			"Travel": "reise",
+			"Snacks": "Snacks",
+			"Fuel": "Kraftstoff",
+			"others": "Andere"
+		},
+		"filtersText": "Filter"
+	},
+	"Diary": {
+		"heading": "Geheimes Tagebuch",
+		"subHeading": "Hinweis hinzufügen",
+		"cancelButton": "Abbrechen",
+		"addNotes": "Hinzufügen von Notizen",
+		"addButton": "Hinzufügen",
+		"updateButton": "aktualisieren",
+		"acceptButton": "Akzeptieren",
+		"messageOptionText": "Nachrichtentyp auswählen",
+		"titleText": "Titel",
+		"labelsText": "Etiketten",
+		"allText": "Alle",
+		"updateText": "Update-Hinweis",
+		"searchText": "Suche",
+		"labels": ["persönlich", "Professionell", "Andere", "TO DO Liste"],
+		"filtersText": "Filter",
+		"filter": ["Spielte", "Wichtig", "Abgeschlossen", "Papierkorb"],
+		"descriptionText": "Beschreibung",
+		"contentType": ["Text", "Scribble", "Anhang", "Stimme", "Video"]
+	},
+	"Documents": {
+		"heading": "Meine Dokumente",
+		"subHeading": "Hochladen von Dateien, Scans, Dokumenten",
+		"resetButton": "Zurücksetzen",
+		"addButton": "Dokument hinzufügen",
+		"acceptButton": "Akzeptieren",
+		"documentsForText": "Dokumente für",
+		"mandatoryText": "Obligatorisches Feld fehlt!",
+		"documentsPreviewText": "Vorschau Ausgewählte Dateien",
+		"documentsDragText": "Ziehen Sie 'n' einige Dateien hier ablegen, oder Klicken Sie auf Dateien auswählen",
+		"documentsVisibilityText": "Ihre Dokumente sind nur 5 Sekunden lang sichtbar!",
+		"documentsPopText": "",
+		"aliasText": "Anlagenname / Alias",
+		"descriptionText": "Beschreibung",
+		"dateText": "Ablaufdatum",
+		"documentsOptionText": "Dokumenttyp auswählen"
+	},
+	"Asset": {
+		"heading": "Vermögenswerte",
+		"subHeading": "Neues Asset hinzufügen",
+		"resetButton": "Zurücksetzen",
+		"submitButton": "Senden",
+		"textList": "Assets-Liste",
+		"assetOptionText": "Asset-Typ auswählen",
+		"nomineeOption": "Nominee Type auswählen",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "Asset-Name",
+					"value": "",
+					"type": "Text"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "Konto-Nr.",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Bankname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Zweig",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"value": "",
+					"type": "Datei"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD Accrount Nein",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "FD-Betrag",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Bankname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "FD-Fälligkeitsdatum",
+					"value": "",
+					"type": "Datum"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"value": "",
+					"type": "Datei"
+				}
+			],
+			"Policy": [
+				{
+					"key": "Richtliniennummer",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Richtlinienname",
+					"type": "Text"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"type": "Datei"
+				}
+			],
+			"Property": [
+				{
+					"key": "Eigenschaftstyp",
+					"type": "Text"
+				},
+				{
+					"key": "Immobilienstandort",
+					"type": "Text"
+				},
+				{
+					"key": "Objektbereich",
+					"type": "Text"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"type": "Datei"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "Portfolio Nein",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Wert",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Typ",
+					"type": "Text"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"type": "Datei"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF Nein",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"value": "",
+					"type": "Datei"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "Gratuity Nein",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"value": "",
+					"type": "Datei"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "Bill Name",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Debtor Date*",
+					"value": "",
+					"type": "Datum"
+				},
+				{
+					"key": "Bill-Betrag",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Ablaufdatum",
+					"value": "",
+					"type": "Datum"
+				},
+				{
+					"key": "Warraty Period (falls zutreffend)",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Kommentare/ Bemerkungen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Anlagen",
+					"value": "",
+					"type": "Datei"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "Bankdetails",
+			"Fixed Deposit": "Feste Einzahlung",
+			"Policy": "Politik",
+			"Property": "Eigenschaft",
+			"Mutual Fund": "Gegenseitiger Fonds",
+			"Provident Fund": "Provident Fund",
+			"Gratuity": "Trinkgeld",
+			"Bills & Credits": "Empfang / Rechnung"
+		}
+	},
+	"Liability": {
+		"heading": "Verbindlichkeiten",
+		"subHeading": "Neue Haftung hinzufügen",
+		"resetButton": "Zurücksetzen",
+		"submitButton": "Senden",
+		"textList": "Haftungsliste",
+		"liabilityOptionText": "Haftungsart auswählen",
+		"nomineeOption": "Wählen Sie Nominierte",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "Liability Name",
+					"value": "",
+					"type": "Text"
+				}
+			],
+			"Notes": [
+				{
+					"key": "Notizen",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Ablaufdatum",
+					"value": "",
+					"type": "Datum"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "Bankname",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Kartenlimit",
+					"value": "",
+					"type": "Anzahl"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "Bankname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Kreditkontonummer",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Kreditbetrag",
+					"value": "",
+					"type": "Anzahl"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "Bankname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Richtliniennummer",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Richtlinienbetrag",
+					"value": "",
+					"type": "Anzahl"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "Objektname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Garantiezeit",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Bill-Betrag",
+					"value": "",
+					"type": "Anzahl"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "Beschreibung",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Rückgabezeitraum",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Menge",
+					"value": "",
+					"type": "Anzahl"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "Objektname",
+					"value": "",
+					"type": "Text"
+				},
+				{
+					"key": "Beschreibung",
+					"value": "",
+					"type": "Anzahl"
+				},
+				{
+					"key": "Ablauf",
+					"value": "",
+					"type": "Anzahl"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "Benutzerdefinierte",
+			"Notes": "Notizen",
+			"Credit Card": "Kreditkarte",
+			"Loan Amount": "Kreditbetrag",
+			"Insurance": "Versicherung",
+			"Warranty": "Garantie",
+			"Ponzi": "Ponzi",
+			"Receipt": "Beleg"
+		}
+	},
+	"Nominee": {
+		"heading": "Verwalten von Nominierten",
+		"subHeading": "NEUE NOMINIERUNG HINZUFÜGEN",
+		"cancelButton": "Abbrechen",
+		"addButton": "Hinzufügen",
+		"acceptButton": "Akzeptieren",
+		"textList": "Haftungsliste",
+		"nomineeAddText": "Neuer Nominee hinzufügen",
+		"searchText": "Nominierte finden",
+		"nomineeTotalText": "Gesamtanzahl",
+
+		"nomineeTableName": "Namen",
+		"nomineeTableRelation": "Bezug",
+		"nomineeTableEmail": "E-Mail",
+		"nomineeTableContact": "Kontakt",
+		"nomineeTableActions": "Aktionen",
+		"nomineeFormName": "Namen",
+		"nomineeFormRelation": "Bezug",
+		"nomineeFormEmail": "E-Mail",
+		"nomineeFormAddress": "Adresse",
+		"nomineeFormContact": "Kontakt",
+		"nomineeFormSecondaryContact": "Sekundärer Kontakt",
+		"nomineeFormActions": "Aktionen",
+		"nomineeNameHolder": "Nominee Name",
+		"nomineeRelationOption": {
+			"Son": "Son",
+			"Daughter": "Tochter",
+			"Husband": "Ehemann",
+			"Wife": "Ehefrau",
+			"Son-in-law": "Schwiegersohn",
+			"Daughter-in-law": "Schwiegertochter",
+			"Cousin": "Cousin",
+			"Friend": "Freund",
+			"Colleague": "Kollegen",
+			"others": "Andere"
+		},
+		"nomineeEmailHolder": "Geben Sie Nominee E-Mail ein",
+		"nomineeAddressHolder": "Adresse",
+		"nomineeContactHolder": "Geben Sie den primären Kontakt Nr.",
+		"nomineeSecondaryContactHolder": "Geben Sie sekundäre Kontaktnummer ein.",
+		"nomineeActionsHolder": "Aktionen"
+	},
+	"Password": {
+		"heading": "Verbindlichkeiten",
+		"subHeading": "Neues Kennwort hinzufügen",
+		"resetButton": "Zurücksetzen",
+		"addButton": "Hinzufügen",
+		"acceptButton": "Akzeptieren",
+		"textList": "Haftungsliste",
+		"pwdForText": "Passwort für",
+		"mandatoryText": "Obligatorisches Feld fehlt!",
+		"pwdIdentityText": "Identifizieren Sie Ihre Identität",
+		"pwdDeleteText": "Passwort erfolgreich gelöscht",
+		"pwdVisibilityText": "Ihr Passwort ist nur 5 Sekunden lang sichtbar!",
+		"pwdPopText": "Geben Sie Ihr Login-Passwort ein, um fortzufahren",
+		"pwsSavedText": "Gespeicherte Passwörter",
+		"passwordText": "Passwort",
+		"userNameText": "Benutzername",
+		"passwordOptionText": "Passworttyp auswählen",
+		"passwordOption": {
+			"Bank": "Bank",
+			"Email": "E-Mail",
+			"Card": "Karte",
+			"Social": "sozial",
+			"HealthCare": "Gesundheitswesen",
+			"App": "App",
+			"Government": "Regierung",
+			"Office": "Büro",
+			"Educational": "Pädagogische",
+			"E-commerce": "E-Commerce",
+			"Finance": "Finanzen",
+			"Custom": "Benutzerdefinierte"
+		}
+	},
+	"Dashboard": {
+		"asset": "Asset",
+		"assetText": "Bankdaten, FD, FuE, Versicherungen, Immobilien etc.",
+		"liability": "Verbindlichkeiten",
+		"liabilityText": "Darlehen, EMI, Barkredite usw. mit Sicherheiten",
+		"vault": "Tresor",
+		"vaultText": "Speichern Sie Ihre Passwörter wie Karten, Anmeldeinformationen in Ihrem geheimen Tresor.",
+		"nominees": "Nominierten",
+		"nomineesText": "Verwalten Sie Ihre Nominierten für Ihre Vermögenswerte und Verbindlichkeiten",
+		"spends": " Tägliche Ausgaben",
+		"spendsText": "Protokollieren Sie Ihre täglichen Ausgaben in Ihrer Liste der geheimen Ausgaben und analysieren Sie Ihre Ausgaben.",
+		"documents": "Dokumente",
+		"documentsText": "Laden Sie Dokumente, Bilder in Ihrem eigenen geheimen Tresor hoch",
+		"diary": "Geheimes Tagebuch",
+		"diaryText": "Loggen Sie Ihre täglichen Gedanken und Geheimnisse in Ihrem eigenen geheimen Tagebuch",
+		"portfolio": "Portfolio",
+		"portfolioText": "Anzeigen und Analysieren Ihres Portfolios an eingesparten Vermögenswerten und Verbindlichkeiten"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "Sender",
+		"subHeading": "Speichern, Planen, Senden von Text, Audio, Videonachrichten",
+		"cancelButton": "Abbrechen",
+		"addButton": "Hinzufügen",
+		"updateButton": "aktualisieren",
+		"deleteButton": "Löschen",
+		"messageOptionText": "Nachrichtentyp auswählen",
+		"titleText": "Titel",
+		"allText": "Alle",
+		"updateText": "Update-Hinweis",
+		"searchText": "Suche",
+		"descriptionText": "Beschreibung",
+		"contentType": ["Text", "Stimme", "Video"],
+		"audioText": {
+			"upload": "Hochladen",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

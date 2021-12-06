@@ -1,0 +1,48 @@
+:root {
+	--speed: 2.9s;
+	--background: #ffebd2;
+	--cursor: black;
+}
+
+@keyframes Typewriter {
+	to {
+		left: 100%;
+	}
+}
+
+@keyframes Cursor {
+	to {
+		background: transparent;
+	}
+	50% {
+		background: var(--warning);
+	}
+}
+
+.typewriter {
+	position: relative;
+	width: max-content;
+	margin: auto;
+}
+
+.typewriter::before,
+.typewriter::after {
+	content: ' ';
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.typewriter::before {
+	background-color: var(--background);
+	animation: Typewriter var(--speed) steps(31) forwards 1s;
+}
+
+.typewriter::after {
+	width: 2px;
+	background-color: white;
+	animation: Typewriter var(--speed) steps(31) forwards 1s,
+		Cursor 500ms steps(28) infinite;
+}

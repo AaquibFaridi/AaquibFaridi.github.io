@@ -1,0 +1,598 @@
+{
+	"EditProfile": {
+		"heading": "Bearbeitungsprofil",
+		"subSection1": "Konto",
+		"subSection2": "Informationen",
+		"salutaion": "Anrede",
+		"firstname": "Vorname",
+		"middlename": "Zweitname",
+		"lastname": "Nachname",
+		"primaryEmail": "Primäre E-Mail",
+		"primaryContact": "Primärer Kontakt",
+		"secondaryEmail": "Sekundäre E-Mail",
+		"secondaryContact": "Sekundärer Kontakt",
+		"dob": "Geburtsdatum",
+		"resetButton": "Zurücksetzen",
+		"saveButton": "Speichern von Änderungen",
+		"personalInfo": "Persönliche Informationen",
+		"address": "Adresse",
+		"addressline1": "Adresse Première ligne",
+		"addressline2": "Adresse ligne deux",
+		"pincode": "Code pin",
+		"city": "ville",
+		"state": "état",
+		"country": "pays",
+		"communication": "communication",
+		"email": "Messagerie électronique",
+		"SMS": "SMS",
+		"phone": "Téléphone",
+		"theme": "thème",
+		"dark": "sombre",
+		"light": "lumière",
+		"gender": "genre",
+		"male": "mâle",
+		"female": "femelle",
+		"others": "autrui",
+		"pwdText": "Mot de passe Afficher l’heure dans Password Vault",
+		"time1": "3 secondes",
+		"time2": "5 secondes",
+		"time3": "10 secondes",
+		"languagesholder": "Langue",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "portefeuille",
+		"Assets List": "Liste des actifs",
+		"Liabilities List": "Liste des passifs"
+	},
+	"Spends": {
+		"heading": "Dépenses quotidiennes",
+		"subHeading": "Ajouter de nouvelles dépenses",
+		"totalCount": "Nombre total",
+		"searchText": "Journal des dépenses de recherche",
+		"cancelButton": "Annuler",
+		"addButton": "ajouter",
+		"updateButton": "mettre à jour",
+		"acceptButton": "accepter",
+		"messageOptionText": "Sélectionnez Type de message",
+		"itemText": "article",
+		"labelText": "étiquette",
+		"dateText": "date",
+		"amountText": "quantité",
+		"descriptionText": "description",
+		"labels": {
+			"Groceries": "courses",
+			"Cigretes": " cigarette",
+			"Drink": "boire",
+			"Party": "parti",
+			"Fees": "honoraires",
+			"Rent": "louer",
+			"Travel": "voyager",
+			"Snacks": "Collations",
+			"Fuel": "combustible",
+			"others": "autrui"
+		},
+		"filtersText": "Filtres"
+	},
+	"Documents": {
+		"heading": "Mes documents",
+		"subHeading": "Télécharger n’importe quel fichier, scans, documents",
+		"resetButton": "réinitialisation",
+		"addButton": "Ajouter le document",
+		"acceptButton": "accepter",
+		"documentsForText": "Documents pour",
+		"mandatoryText": "Champ obligatoire manquant!",
+		"documentsPreviewText": "Aperçu des fichiers sélectionnés",
+		"documentsDragText": "Faites glisser 'n déposer quelques fichiers ici, ou cliquez pour sélectionner des fichiers",
+		"documentsVisibilityText": "Vos documents ne seront visibles que pendant 5 secondes !",
+		"documentsPopText": "",
+		"aliasText": "Nom de pièce jointe / Alias",
+		"descriptionText": "description",
+		"dateText": "échéance",
+		"documentsOptionText": "Sélectionnez Type de documents"
+	},
+	"Diary": {
+		"heading": "Journal secret",
+		"subHeading": "Ajouter note",
+		"cancelButton": "Annuler",
+		"addNotes": "Ajouter des notes",
+		"addButton": "ajouter",
+		"updateButton": "mettre à jour",
+		"acceptButton": "accepter",
+		"messageOptionText": "Sélectionnez Type de message",
+		"titleText": "titre",
+		"labelsText": "Étiquettes",
+		"allText": "tout",
+		"updateText": "Note de mise à jour",
+		"searchText": "rechercher",
+		"labels": ["personnel", "professionnel", "autrui", "Liste DES À FAIRE"],
+		"filtersText": "Filtres",
+		"filter": ["Joué", "important", "terminé", "Saccagé"],
+		"descriptionText": "description",
+		"contentType": ["SMS", "gribouiller", "attachement", "voix", "vidéo"]
+	},
+	"Asset": {
+		"heading": "actif",
+		"subHeading": "Ajouter un nouvel actif",
+		"resetButton": "réinitialisation",
+		"submitButton": "Envoyer",
+		"textList": "Liste des actifs",
+		"assetOptionText": "Type d’actif",
+		"nomineeOption": "Type de candidat",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "Nom de l’actif",
+					"value": "",
+					"type": "SMS"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "Numéro de compte",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Nom de la banque",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "branche",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"value": "",
+					"type": "Textarea (Textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"value": "",
+					"type": "lime"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD Accrount Non",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Montant fd",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Nom de la banque",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Date d’échéance fd",
+					"value": "",
+					"type": "date"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"value": "",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"value": "",
+					"type": "lime"
+				}
+			],
+			"Policy": [
+				{
+					"key": "Numéro de police",
+					"type": "nombre"
+				},
+				{
+					"key": "Nom de la politique",
+					"type": "SMS"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"type": "lime"
+				}
+			],
+			"Property": [
+				{
+					"key": "Type de propriété",
+					"type": "SMS"
+				},
+				{
+					"key": "Emplacement de la propriété",
+					"type": "SMS"
+				},
+				{
+					"key": "Superficie de la propriété",
+					"type": "SMS"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"type": "lime"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "Portefeuille No",
+					"type": "nombre"
+				},
+				{
+					"key": "valeur",
+					"type": "nombre"
+				},
+				{
+					"key": "type",
+					"type": "SMS"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"type": "lime"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF Non",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"value": "",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"value": "",
+					"type": "lime"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "Gratuit Non",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"value": "",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"value": "",
+					"type": "lime"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "Nom du projet de loi",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Date du projet de loi",
+					"value": "",
+					"type": "date"
+				},
+				{
+					"key": "Montant de la facture",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "échéance",
+					"value": "",
+					"type": "date"
+				},
+				{
+					"key": "Période de méfiez-vous (le cas échéant)",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Commentaires/Remarques",
+					"value": "",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "Pièces jointes",
+					"value": "",
+					"type": "lime"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "Coordonnées bancaires",
+			"Fixed Deposit": "Dépôt fixe",
+			"Policy": "politique",
+			"Property": "propriété",
+			"Mutual Fund": "Fonds commun de placement",
+			"Provident Fund": "Caisse de prévoyance",
+			"Gratuity": "pourboire",
+			"Bills & Credits": "Reçu / Facture"
+		}
+	},
+	"Liability": {
+		"heading": "passif",
+		"subHeading": "Ajouter une nouvelle responsabilité",
+		"resetButton": "réinitialisation",
+		"submitButton": "Envoyer",
+		"textList": "Liste des passifs",
+		"liabilityOptionText": "Sélectionnez type de responsabilité",
+		"nomineeOption": "Sélectionner les nominés",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "Nom Liability",
+					"value": "",
+					"type": "SMS"
+				}
+			],
+			"Notes": [
+				{
+					"key": "Notes",
+					"value": "",
+					"type": "textarea (textarea)"
+				},
+				{
+					"key": "échéance",
+					"value": "",
+					"type": "date"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "Nom de la banque",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Limite de carte",
+					"value": "",
+					"type": "nombre"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "Nom de la banque",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Numéro de compte de prêt",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Montant du prêt",
+					"value": "",
+					"type": "nombre"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "Nom de la banque",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Numéro de police",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Montant de la police",
+					"value": "",
+					"type": "nombre"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "Nom de l’objet",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Période de garantie",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "Montant de la facture",
+					"value": "",
+					"type": "nombre"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "description",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "Période de retour",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "quantité",
+					"value": "",
+					"type": "nombre"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "Nom de l’objet",
+					"value": "",
+					"type": "SMS"
+				},
+				{
+					"key": "description",
+					"value": "",
+					"type": "nombre"
+				},
+				{
+					"key": "expiration",
+					"value": "",
+					"type": "nombre"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "coutume",
+			"Notes": "Notes",
+			"Credit Card": "carte de crédit",
+			"Loan Amount": "Montant du prêt",
+			"Insurance": "assurance",
+			"Warranty": "garantie",
+			"Ponzi": "Ponzi",
+			"Receipt": "reçu"
+		}
+	},
+	"Nominee": {
+		"heading": "Gérer les candidats",
+		"subHeading": "AJOUTER UN NOUVEAU CANDIDAT",
+		"cancelButton": "Annuler",
+		"addButton": "ajouter",
+		"acceptButton": "accepter",
+		"textList": "Liste des passifs",
+		"nomineeAddText": "Ajouter un nouveau candidat",
+		"searchText": "Trouver des candidats",
+		"nomineeTotalText": "Nombre total",
+		"nomineeTableName": "nom",
+		"nomineeTableRelation": "relation",
+		"nomineeTableEmail": "Messagerie électronique",
+		"nomineeTableContact": "contact",
+		"nomineeTableActions": "Actions",
+		"nomineeFormName": "nom",
+		"nomineeFormRelation": "relation",
+		"nomineeFormEmail": "Messagerie électronique",
+		"nomineeFormAddress": "adresse",
+		"nomineeFormContact": "contact",
+		"nomineeFormSecondaryContact": "Contact secondaire",
+		"nomineeFormActions": "Actions",
+		"nomineeNameHolder": "Nom du candidat",
+		"nomineeRelationOption": {
+			"Son": "Son",
+			"Daughter": "Fille",
+			"Husband": "Mari",
+			"Wife": "Femme",
+			"Son-in-law": "gendre",
+			"Daughter-in-law": "belle-fille",
+			"Cousin": "cousin",
+			"Friend": "Ami",
+			"Colleague": "collègue",
+			"others": "autrui"
+		},
+		"nomineeEmailHolder": "Entrez l’e-mail du candidat",
+		"nomineeAddressHolder": "adresse",
+		"nomineeContactHolder": "Entrez le contact principal no.",
+		"nomineeSecondaryContactHolder": "Entrez le contact secondaire no.",
+		"nomineeActionsHolder": "Actions"
+	},
+	"Password": {
+		"heading": "passif",
+		"subHeading": "Ajouter un nouveau mot de passe",
+		"resetButton": "réinitialisation",
+		"addButton": "ajouter",
+		"acceptButton": "accepter",
+		"textList": "Liste des passifs",
+		"pwdForText": "Mot de passe pour",
+		"mandatoryText": "Champ obligatoire manquant!",
+		"pwdIdentityText": "Confirmez votre identité",
+		"pwdDeleteText": "Mot de passe supprimé avec succès",
+		"pwdVisibilityText": "Votre mot de passe ne sera visible que pendant 5 secondes!",
+		"pwdPopText": "Entrez votre mot de passe de connexion pour continuer",
+		"pwsSavedText": "Mots de passe enregistrés",
+		"passwordText": "Mot de passe",
+		"userNameText": "Nom d'utilisateur",
+		"passwordOptionText": "Sélectionnez le type de mot de passe",
+		"passwordOption": {
+			"Bank": "banque",
+			"Email": "Messagerie électronique",
+			"Card": "carte",
+			"Social": "social",
+			"HealthCare": "Santé",
+			"App": "appli",
+			"Government": "gouvernement",
+			"Office": "bureau",
+			"Educational": "éducatif",
+			"E-commerce": "E-commerce",
+			"Finance": "finance",
+			"Custom": "coutume"
+		}
+	},
+	"Dashboard": {
+		"asset": "atout",
+		"assetText": "Coordonnées bancaires, FD, RD, Assurance, Propriétés, etc.",
+		"liability": "passif",
+		"liabilityText": "Prêt, EMI, Espèces empruntées etc. avec des détails collatéraux",
+		"vault": "voûte",
+		"vaultText": "Enregistrez vos mots de passe comme des cartes, des informations d’identification dans votre coffre-fort secret.",
+		"nominees": "Candidats",
+		"nomineesText": "Gérez vos candidats pour vos actifs et passifs",
+		"spends": " Dépenses quotidiennes",
+		"spendsText": "Enregistrez vos dépenses quotidiennes dans votre liste de dépenses secrètes et analysez vos dépenses.",
+		"documents": "documents",
+		"documentsText": "Téléchargez vos documents, photos dans votre propre coffre secret",
+		"diary": "Journal secret",
+		"diaryText": "Enregistrez vos pensées et secrets quotidiens dans votre propre journal intime secret",
+		"portfolio": "portefeuille",
+		"portfolioText": "Consultez et analysez votre portefeuille d’actifs et de passifs économisés"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "Chaîne",
+		"subHeading": "Enregistrer, planifier, envoyer du texte, audio, messages vidéo",
+		"cancelButton": "Annuler",
+		"addButton": "ajouter",
+		"updateButton": "mettre à jour",
+		"deleteButton": "supprimer",
+		"messageOptionText": "Sélectionner le type de message",
+		"titleText": "titre",
+		"allText": "tout",
+		"updateText": "Note de mise à jour",
+		"searchText": "rechercher",
+		"descriptionText": "description",
+		"contentType": ["SMS", "voix", "vidéo"],
+		"audioText": {
+			"upload": "télécharger",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

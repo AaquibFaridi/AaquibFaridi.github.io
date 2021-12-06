@@ -1,0 +1,10 @@
+.jusPayForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: grey;
+  margin: 0 16px 0 15px;
+  @media (min-width: 768px) {
+    margin: 30px 278px 0 280px;
+  }
+}

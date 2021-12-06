@@ -1,0 +1,612 @@
+{
+	"EditProfile": {
+		"heading": "پروفائل تدوین کریں",
+		"subSection1": "حساب",
+		"subSection2": "معلومات",
+		"salutaion": "سلام",
+		"firstname": "پہلا نام",
+		"middlename": "درمیانی نام",
+		"lastname": "آخری نام",
+		"primaryEmail": "بنیادی ای میل",
+		"primaryContact": "بنیادی رابطہ",
+		"secondaryEmail": "ثانوی ای میل",
+		"secondaryContact": "ثانوی رابطہ",
+		"dob": "تاريخ پيدائش",
+		"resetButton": "سیٹ",
+		"saveButton": "تبدیلیاں محفوظ کریں",
+		"personalInfo": "ذاتی معلومات",
+		"address": "پتہ",
+		"addressline1": "پتہ لائن ایک",
+		"addressline2": "پتہ لائن دو",
+		"pincode": "پن کوڈ",
+		"city": "شہر",
+		"state": "حالت",
+		"country": "ملک",
+		"communication": "ابلاغ",
+		"email": "ای میل",
+		"SMS": "ایس ایم ایس",
+		"phone": "فون",
+		"theme": "موضوع",
+		"dark": "اندھیرا",
+		"light": "روشنی",
+		"gender": "جنس",
+		"male": "نر",
+		"female": "مادہ",
+		"others": "دوسروں",
+		"pwdText": "پاس ورڈ شو ٹائم ان پاس ورڈ والٹ",
+		"time1": "3 سیکنڈ",
+		"time2": "5 سیکنڈ",
+		"time3": "10 سیکنڈ",
+		"languagesholder": "زبان",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "قلمدان",
+		"Assets List": "اثاثوں کی فہرست",
+		"Liabilities List": "واجبات فہرست"
+	},
+	"Spends": {
+		"heading": "روزانہ خرچ کرتا ہے",
+		"subHeading": "نیا خرچ شامل کریں",
+		"totalCount": "کل گنتی",
+		"searchText": "تلاش لاگ خرچ کرتا ہے",
+		"cancelButton": "منسوخ",
+		"addButton": "اضافہ کرنا",
+		"updateButton": "تازہ کاری",
+		"acceptButton": "قبول کرنا",
+		"messageOptionText": "پیغام قسم منتخب کریں",
+		"itemText": "شے",
+		"labelText": "لیبل",
+		"dateText": "تاریخ",
+		"amountText": "مقدار",
+		"descriptionText": "بیان",
+		"labels": {
+			"Groceries": "اشیائے خوردونوش",
+			"Cigretes": " سگریٹ",
+			"Drink": "پینا",
+			"Party": "پارٹی",
+			"Fees": "فیس",
+			"Rent": "کرایہ",
+			"Travel": "سفر",
+			"Snacks": "نمکین",
+			"Fuel": "ایندھن",
+			"others": "دوسروں"
+		},
+		"filtersText": "فلٹر"
+	},
+	"Diary": {
+		"heading": "خفیہ ڈائری",
+		"subHeading": "نوٹ اضافہ کریں",
+		"cancelButton": "منسوخ",
+		"addNotes": "نوٹ شامل کریں",
+		"addButton": "اضافہ کرنا",
+		"updateButton": "تازہ کاری",
+		"acceptButton": "قبول کرنا",
+		"messageOptionText": "پیغام قسم منتخب کریں",
+		"titleText": "عنوان",
+		"labelsText": "لیبل",
+		"allText": "تمام",
+		"updateText": "نوٹ تازہ کاری کریں",
+		"searchText": "تلاش",
+		"labels": ["ذاتی", "پیشہ ورانہ", "دوسروں", "فہرست کرنے کے لئے"],
+		"filtersText": "فلٹر",
+		"filter": ["ستارہ دار", "اہم", "مکمل", "ردی کی ٹوکری"],
+		"descriptionText": "بیان",
+		"contentType": ["متن", "لکھنا", "منسلکہ", "آواز", "ویڈیو"]
+	},
+	"Documents": {
+		"heading": "میری دستاویزات",
+		"subHeading": "کوئی بھی فائل، اسکین، دستاویزات اپ لوڈ کریں",
+		"resetButton": "سیٹ",
+		"addButton": "دستاویز اضافہ کریں",
+		"acceptButton": "قبول کرنا",
+		"documentsForText": "دستاویزات برائے",
+		"mandatoryText": "لازمی فیلڈ غائب!",
+		"documentsPreviewText": "منتخب مسلیں پیش منظر کریں",
+		"documentsDragText": "کچھ مسلیں یہاں ڈراپ کریں، یا مسلیں منتخب کرنے کے لیے کلک کریں",
+		"documentsVisibilityText": "آپ کی دستاویزات صرف 5 سیکنڈ کے لئے نظر آئیں گی!",
+		"documentsPopText": "",
+		"aliasText": "نام منسلکہ / عرف",
+		"descriptionText": "بیان",
+		"dateText": "مدت ختم ہونے کی تاریخ",
+		"documentsOptionText": "دستاویزات قسم منتخب کریں"
+	},
+	"Nominee": {
+		"heading": "نامزد افراد کا انتظام کریں",
+		"subHeading": "نیا نامزد شخص شامل کریں",
+		"cancelButton": "منسوخ",
+		"addButton": "اضافہ کرنا",
+		"acceptButton": "قبول کرنا",
+		"textList": "واجبات فہرست",
+		"nomineeAddText": "نیا نامزد کردہ اضافہ کریں",
+		"searchText": "نامزد افراد تلاش کریں",
+		"nomineeTotalText": "کل گنتی",
+		"nomineeTableName": "نام",
+		"nomineeTableRelation": "رشتہ",
+		"nomineeTableEmail": "ای میل",
+		"nomineeTableContact": "رابطہ",
+		"nomineeTableActions": "اعمال",
+		"nomineeFormName": "نام",
+		"nomineeFormRelation": "رشتہ",
+		"nomineeFormEmail": "ای میل",
+		"nomineeFormAddress": "پتہ",
+		"nomineeFormContact": "رابطہ",
+		"nomineeFormSecondaryContact": "ثانوی رابطہ",
+		"nomineeFormActions": "اعمال",
+		"nomineeNameHolder": "نامزد نام",
+		"nomineeRelationOption": {
+			"Son": "آواز",
+			"Daughter": "بیٹی",
+			"Husband": "شوہر",
+			"Wife": "بیوی",
+			"Son-in-law": "داماد",
+			"Daughter-in-law": "بہو",
+			"Cousin": "کزن",
+			"Friend": "دوست",
+			"Colleague": "ساتھی",
+			"others": "دوسروں"
+		},
+		"nomineeEmailHolder": "نامزد ای میل درج کریں",
+		"nomineeAddressHolder": "پتہ",
+		"nomineeContactHolder": "بنیادی رابطہ نمبر درج کریں۔",
+		"nomineeSecondaryContactHolder": "ثانوی رابطہ نمبر درج کریں۔",
+		"nomineeActionsHolder": "اعمال"
+	},
+	"Password": {
+		"heading": "واجبات",
+		"subHeading": "نیا پاس ورڈ اضافہ کریں",
+		"resetButton": "سیٹ",
+		"addButton": "اضافہ کرنا",
+		"acceptButton": "قبول کرنا",
+		"textList": "واجبات فہرست",
+		"pwdForText": "پاس ورڈ برائے",
+		"mandatoryText": "لازمی فیلڈ غائب!",
+		"pwdIdentityText": "اپنی شناخت کی تصدیق کریں",
+		"pwdDeleteText": "پاس ورڈ کامیابی کے ساتھ حذف ہو گیا ہے",
+		"pwdVisibilityText": "آپ کا پاس ورڈ صرف 5 سیکنڈ کیلئے نظر آئے گا!",
+		"pwdPopText": "جاری رکھنے کے لئے اپنا لاگ ان پاس ورڈ درج کریں",
+		"pwsSavedText": "محفوظ کردہ پاس ورڈز",
+		"passwordText": "پاس ورڈ",
+		"userNameText": "صارف نام",
+		"passwordOptionText": "پاس ورڈ کی قسم منتخب کریں",
+		"passwordOption": {
+			"Bank": "بینک",
+			"Email": "ای میل",
+			"Card": "کارڈ",
+			"Social": "معاشرتی",
+			"HealthCare": "صحت",
+			"App": "ایپ",
+			"Government": "حکومت",
+			"Office": "دفتر",
+			"Educational": "تعلیمی",
+			"E-commerce": "ای کامرس",
+			"Finance": "مالیات",
+			"Custom": "رواج"
+		}
+	},
+	"Liability": {
+		"heading": "واجبات",
+		"subHeading": "نئی ذمہ داری شامل کریں",
+		"resetButton": "سیٹ",
+		"submitButton": "جمع کرائیں",
+		"textList": "واجبات فہرست",
+		"liabilityOptionText": "ذمہ داری قسم منتخب کریں",
+		"nomineeOption": "نامزد افراد منتخب کریں",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "لیابلٹی نام",
+					"value": "",
+					"type": "متن"
+				}
+			],
+			"Notes": [
+				{
+					"key": "نوٹ",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "مدت ختم ہونے کی تاریخ",
+					"value": "",
+					"type": "تاریخ"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "بینک نام",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "کارڈ حد",
+					"value": "",
+					"type": "تعداد"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "بینک نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "قرض اکاؤنٹ نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "قرض کی رقم",
+					"value": "",
+					"type": "تعداد"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "بینک نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "پالیسی نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "پالیسی رقم",
+					"value": "",
+					"type": "تعداد"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "نام آبجیکٹ",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "وارنٹی مدت",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "بل رقم",
+					"value": "",
+					"type": "تعداد"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "بیان",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "واپسی کی مدت",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "مقدار",
+					"value": "",
+					"type": "تعداد"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "نام آبجیکٹ",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "بیان",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "مدت ختم",
+					"value": "",
+					"type": "تعداد"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "رواج",
+			"Notes": "نوٹ",
+			"Credit Card": "کریڈٹ کارڈ",
+			"Loan Amount": "قرض کی رقم",
+			"Insurance": "بیمہ",
+			"Warranty": "وارنٹی",
+			"Ponzi": "پونزی",
+			"Receipt": "رسید"
+		}
+	},
+	"Asset": {
+		"heading": "مال",
+		"subHeading": "نیا اثاثہ شامل کریں",
+		"resetButton": "سیٹ",
+		"submitButton": "جمع کرائیں",
+		"textList": "اثاثوں کی فہرست",
+		"assetOptionText": "اثاثہ قسم منتخب کریں",
+		"nomineeOption": "نامزد قسم منتخب کریں",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "نام اثاثہ",
+					"value": "",
+					"type": "متن"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "اکاؤنٹ نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "بینک نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "شاخ",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "ایف ڈی ایکرونٹ نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "ایف ڈی رقم",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "بینک نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "ایف ڈی پختگی کی تاریخ",
+					"value": "",
+					"type": "تاریخ"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Policy": [
+				{
+					"key": "پالیسی نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "پالیسی نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Property": [
+				{
+					"key": "خاصیت قسم",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "پراپرٹی محل وقوع",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "پراپرٹی ایریا",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "پورٹ فولیو نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "قیمت",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "قسم",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "ای پی ایف نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "گریجویٹی نمبر",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "بل نام",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "بل کی تاریخ",
+					"value": "",
+					"type": "تاریخ"
+				},
+				{
+					"key": "بل رقم",
+					"value": "",
+					"type": "تعداد"
+				},
+				{
+					"key": "مدت ختم ہونے کی تاریخ",
+					"value": "",
+					"type": "تاریخ"
+				},
+				{
+					"key": "وارٹی مدت (اگر قابل اطلاق ہو)",
+					"value": "",
+					"type": "متن"
+				},
+				{
+					"key": "تبصرے/ تبصرے",
+					"value": "",
+					"type": "متن علاقہ"
+				},
+				{
+					"key": "منسلکات",
+					"value": "",
+					"type": "فائل"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "بینک تفصیلات",
+			"Fixed Deposit": "فکسڈ ڈپازٹ",
+			"Policy": "پالیسی",
+			"Property": "مال",
+			"Mutual Fund": "باہمی فنڈ",
+			"Provident Fund": "پروویڈنٹ فنڈ",
+			"Gratuity": "گریجویٹی",
+			"Bills & Credits": "رسید / بل"
+		}
+	},
+	"Dashboard": {
+		"asset": "اثاثہ",
+		"assetText": "بینک کی تفصیلات، ایف ڈی، آر ڈی، انشورنس، جائیدادیں وغیرہ۔",
+		"liability": "واجبات",
+		"liabilityText": "قرض، ای ایم آئی، نقد قرض وغیرہ کولیٹرل تفصیلات کے ساتھ",
+		"vault": "والٹ",
+		"vaultText": "اپنے پاس ورڈز جیسے کارڈ، اسناد اپنے خفیہ والٹ میں محفوظ کریں۔",
+		"nominees": "نامزد افراد",
+		"nomineesText": "اپنے اثاثوں اور واجبات کے لئے اپنے نامزد افراد کا انتظام کریں",
+		"spends": " روزانہ خرچ کرتا ہے",
+		"spendsText": "اپنے خفیہ اخراجات کی فہرست میں اپنے روزمرہ کے اخراجات لاگ کریں اور اپنے خرچ کا تجزیہ کریں۔",
+		"documents": "دستاویزات",
+		"documentsText": "اپنے خفیہ والٹ میں دستاویزات، تصاویر اپ لوڈ کریں",
+		"diary": "خفیہ ڈائری",
+		"diaryText": "اپنے روزمرہ کے خیالات اور رازوں کو اپنی خفیہ ڈائری میں لاگ کریں",
+		"portfolio": "قلمدان",
+		"portfolioText": "محفوظ اثاثوں اور واجبات کے اپنے پورٹ فولیو کو دیکھیں اور تجزیہ کریں"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "مفسدی",
+		"subHeading": "محفوظ کریں، شیڈول بنائیں، متن، آڈیو، ویڈیو پیغامات بھیجیں",
+		"cancelButton": "منسوخ",
+		"addButton": "اضافہ کرنا",
+		"updateButton": "تازہ کاری",
+		"deleteButton": "مٹانا",
+		"messageOptionText": "پیغام قسم منتخب کریں",
+		"titleText": "عنوان",
+		"allText": "تمام",
+		"updateText": "نوٹ تازہ کاری کریں",
+		"searchText": "تلاش",
+		"descriptionText": "بیان",
+		"contentType": ["متن", "آواز", "ویڈیو"],
+		"audioText": {
+			"upload": "اپ لوڈ",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

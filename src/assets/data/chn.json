@@ -1,0 +1,612 @@
+{
+	"EditProfile": {
+		"heading": "编辑配置文件",
+		"subSection1": "帐户",
+		"subSection2": "信息",
+		"salutaion": "称呼",
+		"firstname": "名字",
+		"middlename": "中间名",
+		"lastname": "姓",
+		"primaryEmail": "主要电子邮件",
+		"primaryContact": "主要联系人",
+		"secondaryEmail": "次要电子邮件",
+		"secondaryContact": "次要联系人",
+		"dob": "出生日期",
+		"resetButton": "重置",
+		"saveButton": "保存更改",
+		"personalInfo": "个人信息",
+		"address": "地址",
+		"addressline1": "地址行一",
+		"addressline2": "地址行二",
+		"pincode": "引脚代码",
+		"city": "城市",
+		"state": "州",
+		"country": "国家",
+		"communication": "通信",
+		"email": "电子邮件",
+		"SMS": "短信",
+		"phone": "电话",
+		"theme": "主题",
+		"dark": "黑暗",
+		"light": "光",
+		"gender": "性",
+		"male": "雄",
+		"female": "女性",
+		"others": "别人",
+		"pwdText": "密码库中的密码显示时间",
+		"time1": "3 秒",
+		"time2": "5 秒",
+		"time3": "10 秒",
+		"languagesholder": "语言",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "投资 组合",
+		"Assets List": "资产清单",
+		"Liabilities List": "负债清单"
+	},
+	"Spends": {
+		"heading": "每日支出",
+		"subHeading": "添加新支出",
+		"totalCount": "总计数",
+		"searchText": "搜索花费日志",
+		"cancelButton": "取消",
+		"addButton": "加",
+		"updateButton": "更新",
+		"acceptButton": "接受",
+		"messageOptionText": "选择消息类型",
+		"itemText": "项目",
+		"labelText": "标签",
+		"dateText": "日期",
+		"amountText": "量",
+		"descriptionText": "描述",
+		"labels": {
+			"Groceries": "杂货",
+			"Cigretes": "香烟",
+			"Drink": "喝",
+			"Party": "党",
+			"Fees": "费用",
+			"Rent": "租金",
+			"Travel": "旅行",
+			"Snacks": "零食",
+			"Fuel": "燃料",
+			"others": "别人"
+		},
+		"filtersText": "过滤 器"
+	},
+	"Diary": {
+		"heading": "秘密日记",
+		"subHeading": "添加注释",
+		"cancelButton": "取消",
+		"addNotes": "添加笔记",
+		"addButton": "加",
+		"updateButton": "更新",
+		"acceptButton": "接受",
+		"messageOptionText": "选择消息类型",
+		"titleText": "标题",
+		"labelsText": "标签",
+		"allText": "都",
+		"updateText": "更新说明",
+		"searchText": "搜索",
+		"labels": ["个人", "专业的", "别人", "要做列表"],
+		"filtersText": "过滤 器",
+		"filter": ["主演", "重要", "完成", "毁"],
+		"descriptionText": "描述",
+		"contentType": ["发短信", "乱 涂", "附件", "声音", "视频"]
+	},
+	"Documents": {
+		"heading": "我的文档",
+		"subHeading": "上传任何文件、扫描、文档",
+		"resetButton": "重置",
+		"addButton": "添加文档",
+		"acceptButton": "接受",
+		"documentsForText": "文档用于",
+		"mandatoryText": "强制字段缺失！",
+		"documentsPreviewText": "预览选定文件",
+		"documentsDragText": "在此处拖动\"n\"删除某些文件，或单击\"选择\"文件",
+		"documentsVisibilityText": "您的文档只能可见5秒！",
+		"documentsPopText": "",
+		"aliasText": "附件名称/别名",
+		"descriptionText": "描述",
+		"dateText": "有效期",
+		"documentsOptionText": "选择文档类型"
+	},
+	"Nominee": {
+		"heading": "管理被提名人",
+		"subHeading": "添加新提名人",
+		"cancelButton": "取消",
+		"addButton": "加",
+		"acceptButton": "接受",
+		"textList": "负债清单",
+		"nomineeAddText": "添加新提名人",
+		"searchText": "查找被提名人",
+		"nomineeTotalText": "总计数",
+		"nomineeTableName": "名字",
+		"nomineeTableRelation": "关系",
+		"nomineeTableEmail": "电子邮件",
+		"nomineeTableContact": "联系",
+		"nomineeTableActions": "行动",
+		"nomineeFormName": "名字",
+		"nomineeFormRelation": "关系",
+		"nomineeFormEmail": "电子邮件",
+		"nomineeFormAddress": "地址",
+		"nomineeFormContact": "联系",
+		"nomineeFormSecondaryContact": "次要联系人",
+		"nomineeFormActions": "行动",
+		"nomineeNameHolder": "提名名称",
+		"nomineeRelationOption": {
+			"Son": "声音",
+			"Daughter": "女儿",
+			"Husband": "老公",
+			"Wife": "老婆",
+			"Son-in-law": "女婿",
+			"Daughter-in-law": "媳妇",
+			"Cousin": "表弟",
+			"Friend": "朋友",
+			"Colleague": "同事",
+			"others": "别人"
+		},
+		"nomineeEmailHolder": "输入提名电子邮件",
+		"nomineeAddressHolder": "地址",
+		"nomineeContactHolder": "输入主要联系人号",
+		"nomineeSecondaryContactHolder": "输入辅助联系人号",
+		"nomineeActionsHolder": "行动"
+	},
+	"Password": {
+		"heading": "负债",
+		"subHeading": "添加新密码",
+		"resetButton": "重置",
+		"addButton": "加",
+		"acceptButton": "接受",
+		"textList": "负债清单",
+		"pwdForText": "密码用于",
+		"mandatoryText": "强制字段缺失！",
+		"pwdIdentityText": "确认您的身份",
+		"pwdDeleteText": "成功删除密码",
+		"pwdVisibilityText": "您的密码将仅显示5秒钟！",
+		"pwdPopText": "输入您的登录密码以继续",
+		"pwsSavedText": "保存的密码",
+		"passwordText": "密码",
+		"userNameText": "用户名",
+		"passwordOptionText": "选择密码类型",
+		"passwordOption": {
+			"Bank": "岸",
+			"Email": "电子邮件",
+			"Card": "卡",
+			"Social": "社会的",
+			"HealthCare": "医疗",
+			"App": "应用程序",
+			"Government": "政府",
+			"Office": "办公室",
+			"Educational": "教育",
+			"E-commerce": "电子商务",
+			"Finance": "金融",
+			"Custom": "习惯"
+		}
+	},
+	"Liability": {
+		"heading": "负债",
+		"subHeading": "添加新责任",
+		"resetButton": "重置",
+		"submitButton": "提交",
+		"textList": "负债清单",
+		"liabilityOptionText": "选择责任类型",
+		"nomineeOption": "选择被提名人",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "利亚比尔蒂名称",
+					"value": "",
+					"type": "发短信"
+				}
+			],
+			"Notes": [
+				{
+					"key": "笔记",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "有效期",
+					"value": "",
+					"type": "日期"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "银行名称",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "卡限制",
+					"value": "",
+					"type": "数"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "银行名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "贷款帐号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "贷款金额",
+					"value": "",
+					"type": "数"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "银行名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "政策编号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "政策金额",
+					"value": "",
+					"type": "数"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "对象名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "保修期",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "账单金额",
+					"value": "",
+					"type": "数"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "描述",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "返回期",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "量",
+					"value": "",
+					"type": "数"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "对象名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "描述",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "满期",
+					"value": "",
+					"type": "数"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "习惯",
+			"Notes": "笔记",
+			"Credit Card": "信用卡",
+			"Loan Amount": "贷款金额",
+			"Insurance": "保险",
+			"Warranty": "保证",
+			"Ponzi": "庞齐",
+			"Receipt": "收据"
+		}
+	},
+	"Asset": {
+		"heading": "资产",
+		"subHeading": "添加新资产",
+		"resetButton": "重置",
+		"submitButton": "提交",
+		"textList": "资产清单",
+		"assetOptionText": "选择资产类型",
+		"nomineeOption": "选择被提名人类型",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "资产名称",
+					"value": "",
+					"type": "发短信"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "帐号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "银行名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "分支",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD 获得第 1 号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "FD 金额",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "银行名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "FD 到期日",
+					"value": "",
+					"type": "日期"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Policy": [
+				{
+					"key": "政策编号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "政策名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Property": [
+				{
+					"key": "属性类型",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "属性位置",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "物业区",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "投资组合号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "价值",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "类型",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "埃普夫号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "酬金号",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "账单名称",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "账单日期",
+					"value": "",
+					"type": "日期"
+				},
+				{
+					"key": "账单金额",
+					"value": "",
+					"type": "数"
+				},
+				{
+					"key": "有效期",
+					"value": "",
+					"type": "日期"
+				},
+				{
+					"key": "战时（如适用）",
+					"value": "",
+					"type": "发短信"
+				},
+				{
+					"key": "评论/备注",
+					"value": "",
+					"type": "文本区域"
+				},
+				{
+					"key": "附件",
+					"value": "",
+					"type": "文件"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "银行详细信息",
+			"Fixed Deposit": "定期存款",
+			"Policy": "政策",
+			"Property": "财产",
+			"Mutual Fund": "共同基金",
+			"Provident Fund": "公积金",
+			"Gratuity": "小费",
+			"Bills & Credits": "收据 / 账单"
+		}
+	},
+	"Dashboard": {
+		"asset": "资产",
+		"assetText": "银行详细信息、FD、研发、保险、财产等。",
+		"liability": "负债",
+		"liabilityText": "贷款、EMI、借入现金等抵押品详情",
+		"vault": "库",
+		"vaultText": "将密码（如卡）保存在秘密金库里。",
+		"nominees": "提名",
+		"nomineesText": "管理您的资产和负债提名人",
+		"spends": "每日支出",
+		"spendsText": "将您的日常支出记录在秘密支出列表中并分析您的支出。",
+		"documents": "文件",
+		"documentsText": "将文档、图片上传到您自己的秘密库中",
+		"diary": "秘密日记",
+		"diaryText": "将您的日常想法和秘密记录在自己的秘密日记中",
+		"portfolio": "投资 组合",
+		"portfolioText": "查看和分析您的储蓄资产和负债组合"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "发射机",
+		"subHeading": "保存、安排、发送文本、音频、视频消息",
+		"cancelButton": "取消",
+		"addButton": "加",
+		"updateButton": "更新",
+		"deleteButton": "删除",
+		"messageOptionText": "选择消息类型",
+		"titleText": "标题",
+		"allText": "都",
+		"updateText": "更新说明",
+		"searchText": "搜索",
+		"descriptionText": "描述",
+		"contentType": ["发短信", "声音", "视频"],
+		"audioText": {
+			"upload": "上传",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

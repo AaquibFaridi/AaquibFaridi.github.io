@@ -1,0 +1,609 @@
+{
+	"EditProfile": {
+		"heading": "दैनिक खर्च",
+		"subHeading": "नया खर्च जोड़ें",
+		"totalCount": "कुल गिनती",
+		"searchText": "खोज खर्च लॉग",
+		"cancelButton": "रद्द करना",
+		"addButton": "आगे कहना",
+		"updateButton": "आधुनिकीकरणअ",
+		"acceptButton": "स्वीकार करना",
+		"messageOptionText": "मैसेज टाइप का चयन करें",
+		"itemText": "समाचार",
+		"labelText": "लेबल",
+		"dateText": "खजूर",
+		"amountText": "कुल धनराशि",
+		"descriptionText": "या क़िस्‍म",
+		"labels": {
+			"Groceries": "किराने का सामान",
+			"Cigretes": "सिग्रेट्स",
+			"Drink": "Drink",
+			"Party": "Party",
+			"Fees": "Fees",
+			"Rent": "Rent",
+			"Travel": "Travel",
+			"Snacks": "Snacks",
+			"Fuel": "Fuel",
+			"others": "others"
+		},
+		"filtersText": "Filters"
+	},
+	"Portfolio": {
+		"Portfolio": "पोर्टफोलियो",
+		"Assets List": "आस्तियों की सूची",
+		"Liabilities List": "देयता सूची"
+	},
+	"Spends": {
+		"heading": "दैनिक खर्च",
+		"subHeading": "नया खर्च जोड़ें",
+		"totalCount": "कुल गणना",
+		"searchText": "खोज खर्च लॉग इन करें",
+		"cancelButton": "रद्द करें",
+		"addButton": "जोड़ें",
+		"updateButton": "अपडेट",
+		"acceptButton": "स्वीकार करें",
+		"messageOptionText": "संदेश प्रकार का चयन करें",
+		"itemText": "आइटम",
+		"labelText": "लेबल",
+		"dateText": "दिनांक",
+		"amountText": "राशि",
+		"descriptionText": "विवरण",
+		"labels": {
+			"Groceries": "किराने का सामान",
+			"Cigretes": "सिगरेट",
+			"Drink": "पेय",
+			"Party": "पार्टी",
+			"Fees": "शुल्क",
+			"Rent": "किराया",
+			"Travel": "यात्रा",
+			"Snacks": "नाश्ता",
+			"Fuel": "ईंधन",
+			"others": "अन्य"
+		},
+		"filtersText": "फिल्टर"
+	},
+	"Diary": {
+		"heading": "गुप्त डायरी",
+		"subHeading": "नोट जोड़ें",
+		"cancelButton": "रद्द करें",
+		"addNotes": "नोट्स जोड़ें",
+		"addButton": "जोड़ें",
+		"updateButton": "अपडेट",
+		"acceptButton": "स्वीकार करें",
+		"messageOptionText": "संदेश प्रकार का चयन करें",
+		"titleText": "शीर्षक",
+		"labelsText": "लेबल",
+		"allText": "सभी",
+		"updateText": "अद्यतन नोट",
+		"searchText": "खोज",
+		"labels": {
+			"Personal": "व्यक्तिगत",
+			"Professional": "पेशेवर",
+			"Others": "अन्य",
+			"TO DO List": "करने के लिए सूची"
+		},
+		"filtersText": "फिल्टर",
+		"filter": {
+			"Starred": "तारांकित",
+			"Important": "महत्वपूर्ण",
+			"Completed": "पूर्ण",
+			"Trashed": "ट्रैशड"
+		},
+		"descriptionText": "विवरण",
+		"contentType": {
+			"Text": "पाठ",
+			"Scribble": "स्क्रिबल",
+			"Attachment": "अनुलग्नक",
+			"Voice": "आवाज",
+			"Video": "वीडियो"
+		}
+	},
+	"Documents": {
+		"heading": "मेरे दस्तावेज़",
+		"subHeading": "किसी भी फ़ाइल, स्कैन, दस्तावेज़ अपलोड करें",
+		"resetButton": "रीसेट",
+		"addButton": "दस्तावेज़ जोड़ें",
+		"acceptButton": "स्वीकार करें",
+		"documentsForText": "दस्तावेज़ के लिए",
+		"mandatoryText": "अनिवार्य फ़ील्ड गुम!",
+		"documentsPreviewText": "चयनित फ़ाइलों का पूर्वावलोकन करें",
+		"documentsDragText": "ड्रैग 'एन' कुछ फ़ाइलों को यहाँ छोड़ें, या फ़ाइलों का चयन करने के लिए क्लिक करें",
+		"documentsVisibilityText": "आपके दस्तावेज़ केवल 5 सेकंड के लिए होंगे!",
+		"documentsPopText": "",
+		"aliasText": "संलग्न नाम / उपनाम",
+		"descriptionText": "विवरण",
+		"dateText": "समाप्ति तिथि",
+		"documentsOptionText": "दस्तावेजों का चयन करें"
+	},
+	"Nominee": {
+		"heading": "प्रत्याशियों का प्रबंधन करें",
+		"subHeading": "नया नामांकित व्यक्ति जोड़ें",
+		"cancelButton": "रद्द करना",
+		"addButton": "आगे कहना",
+		"acceptButton": "स्वीकार करना",
+		"textList": "देनदारियों की सूची",
+		"nomineeAddText": "नया नॉमिनी जोड़ें",
+		"searchText": "प्रत्याशियों का पता लगाएं",
+		"nomineeTotalText": "कुल गिनती",
+		"nomineeTableName": "नाम",
+		"nomineeTableRelation": "रिश्तेदार",
+		"nomineeTableEmail": "ईमेल",
+		"nomineeTableContact": "संपर्क",
+		"nomineeTableActions": "कार्यों",
+		"nomineeFormName": "नाम",
+		"nomineeFormRelation": "रिश्तेदार",
+		"nomineeFormEmail": "ईमेल",
+		"nomineeFormAddress": "पता",
+		"nomineeFormContact": "संपर्क",
+		"nomineeFormSecondaryContact": "माध्यमिक संपर्क",
+		"nomineeFormActions": "कार्यों",
+		"nomineeNameHolder": "नामांकित व्यक्ति का नाम",
+		"nomineeRelationOption": {
+			"Son": "ध्वनि",
+			"Daughter": "बेटी",
+			"Husband": "पति",
+			"Wife": "पत्नी",
+			"Son-in-law": "जामाता",
+			"Daughter-in-law": "पुत्रवधू",
+			"Cousin": "चचेरा भाई",
+			"Friend": "मित्र",
+			"Colleague": "सहकर्मी",
+			"others": "दूसरों"
+		},
+		"nomineeEmailHolder": "नॉमिनी ईमेल दर्ज करें",
+		"nomineeAddressHolder": "पता",
+		"nomineeContactHolder": "प्राथमिक संपर्क संख्या दर्ज करें ।",
+		"nomineeSecondaryContactHolder": "माध्यमिक संपर्क संख्या दर्ज करें ।",
+		"nomineeActionsHolder": "कार्यों"
+	},
+	"Password": {
+		"heading": "दायित्व",
+		"subHeading": "नया पासवर्ड जोड़ें",
+		"resetButton": "रीसेट",
+		"addButton": "जोड़ें",
+		"acceptButton": "स्वीकार करें",
+		"textList": "दायित्व सूची",
+		"pwdForText": "पासवर्ड के लिए",
+		"mandatoryText": "अनिवार्य फ़ेल्ड मिसिंग!",
+		"pwdIdentityText": "अपनी पहचान की पुष्टि करें",
+		"pwdDeleteText": "पासवर्ड सफलतापूर्वक हटाया गया",
+		"pwdVisibilityText": "आपका पासवर्ड केवल 5 सेकंड के लिए दिखाई देगा!",
+		"pwdPopText": "जारी रखने के लिए अपना लॉगिन पासवर्ड दर्ज करें",
+		"pwsSavedText": "सहेजा गया पासवर्ड",
+		"passwordText": "पासवर्ड",
+		"userNameText": "उपयोगकर्ता नाम",
+		"passwordOptionText": "पासवर्ड प्रकार का चयन करें",
+		"passwordOption": {
+			"Bank": "बैंक",
+			"Email": "ईमेल",
+			"Card": "कार्ड",
+			"Social": "सामाजिक",
+			"HealthCare": "हेल्थकेयर",
+			"App": "ऐप",
+			"Goverment": "शासन",
+			"Office": "कार्यालय",
+			"Educational": "शैक्षिक",
+			"E-commerce": "ई-कॉमर्स",
+			"Finance": "वित्त",
+			"Custom": "कस्टम"
+		}
+	},
+	"Liability": {
+		"heading": "दायित्व",
+		"subHeading": "नई देयता जोड़ें",
+		"resetButton": "रीसेट",
+		"submitButton": "जमा करें",
+		"textList": "देनदारियों की सूची",
+		"liabilityOptionText": "लायबिलिटी टाइप का चयन करें",
+		"nomineeOption": "प्रत्याशियों का चयन करें",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "देयता का नाम",
+					"value": "",
+					"type": "पाठ"
+				}
+			],
+			"Notes": [
+				{
+					"key": "नोट्स",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "समाप्ति की तारीख",
+					"value": "",
+					"type": "तिथि"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "बैंक का नाम",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "कार्ड की सीमा",
+					"value": "",
+					"type": "संख्या"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "बैंक का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "ऋण खाता संख्या",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "ऋण राशि",
+					"value": "",
+					"type": "संख्या"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "बैंक का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "नीति संख्या",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "नीति राशि",
+					"value": "",
+					"type": "संख्या"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "वस्तु का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "वारंटी अवधि",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "बिल राशि",
+					"value": "",
+					"type": "संख्या"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "विवरण",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "वापसी अवधि",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "राशि",
+					"value": "",
+					"type": "संख्या"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "वस्तु का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "विवरण",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "उत्तराधिकार",
+					"value": "",
+					"type": "संख्या"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "परम्परा",
+			"Notes": "नोट्स",
+			"Credit Card": "क्रेडिट कार्ड",
+			"Loan Amount": "ऋण राशि",
+			"Insurance": "सुरक्षा-कवच",
+			"Warranty": "वारंटी",
+			"Ponzi": "पोंजी",
+			"Receipt": "प्राप्ति"
+		}
+	},
+	"Asset": {
+		"heading": "संपत्ति",
+		"subHeading": "नई संपत्ति जोड़ें",
+		"resetButton": "रीसेट",
+		"submitButton": "जोड़ें",
+		"textList": "संपत्ति सूची",
+		"assetOptionText": "एसेट टाइप चुनें",
+		"nomineeOption": "नॉमिनी टाइप चुनें",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "एसेट नाम",
+					"value": "",
+					"type": "पाठ"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "खाता संख्या",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "बैंक का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "शाखा",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "पाठयक्रम"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "पाठ0",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "पाठ1",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "बैंक का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "पाठ2",
+					"value": "",
+					"type": "पाठ3"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "पाठ4"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Policy": [
+				{
+					"key": "नीति संख्या",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "नीति नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "पाठयक्रम"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Property": [
+				{
+					"key": "संपत्ति प्रकार",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "संख्या0",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "संख्या1",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "पाठयक्रम"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "संख्या2",
+					"value": "",
+					"type": "संख्या3"
+				},
+				{
+					"key": "संख्या4",
+					"value": "",
+					"type": "संख्या3"
+				},
+				{
+					"key": "संख्या5",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "पाठयक्रम"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF No",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "ग्रेच्युटी नहीं",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "बिल का नाम",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "बिल दिनांक",
+					"value": "",
+					"type": "संख्या0"
+				},
+				{
+					"key": "संख्या1",
+					"value": "",
+					"type": "संख्या"
+				},
+				{
+					"key": "संख्या2",
+					"value": "",
+					"type": "संख्या0"
+				},
+				{
+					"key": "संख्या3",
+					"value": "",
+					"type": "पाठ"
+				},
+				{
+					"key": "टिप्पणियाँ / टिप्पणी",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "संलग्नक",
+					"value": "",
+					"type": "फ़ाइल"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "बैंक विवरण",
+			"Fixed Deposit": "फिक्स्ड डिपॉजिट",
+			"Policy": "बीमा पॉलिसी",
+			"Property": "जायदाद",
+			"Mutual Fund": "म्यूचुअल फंड",
+			"Provident Fund": "भविष्य निधि",
+			"Gratuity": "उपदान",
+			"Bills & Credits": "रसीद/बिल"
+		}
+	},
+	"Dashboard": {
+		"asset": "पूंजी",
+		"assetText": "बैंक विवरण, एफडी, आरडी, बीमा, संपत्ति आदि",
+		"liability": "दायित्व",
+		"liabilityText": "जमानत विवरण के साथ ऋण, ईएमआई, नकद उधार आदि",
+		"vault": "तिजोरी",
+		"vaultText": "अपने गुप्त तिजोरी में कार्ड, साख की तरह अपने पासवर्ड सहेजें",
+		"nominees": "प्रत्याशियों",
+		"nomineesText": "अपनी संपत्ति और दायित्व के लिए अपने प्रत्याशियों का प्रबंधन",
+		"spends": " दैनिक खर्च",
+		"spendsText": "अपने दैनिक खर्चों को अपनी गुप्त खर्च सूची में लॉग इन करें और अपने स्पेंडिचर का विश्लेषण करें",
+		"documents": "दस्तावेज़",
+		"documentsText": "आप अपने स्वयं के गुप्त तिजोरी में दस्तावेज, pics अपलोड करें",
+		"diary": "गुप्त डायरी",
+		"diaryText": "अपने दैनिक विचारों और रहस्यों को अपनी गुप्त डायरी में लॉग इन करें",
+		"portfolio": "पेटिका",
+		"portfolioText": "सहेजी गई परिसंपत्तियों और संपर्कों के अपने पोर्टफोलियो को देखें और उनका विश्लेषण करें"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "सन्देशवाहक",
+		"subHeading": "सहेजें, शेड्यूल करें, टेक्स्ट, ऑडियो, वीडियो संदेश भेजें",
+		"cancelButton": "रद्द करना",
+		"addButton": "आगे कहना",
+		"updateButton": "आधुनिकीकरणअ",
+		"deleteButton": "मिटाना",
+		"messageOptionText": "मैसेज टाइप का चयन करें",
+		"titleText": "उपाधि",
+		"allText": "सब",
+		"updateText": "अपडेट नोट",
+		"searchText": "ढूँढ",
+		"descriptionText": "या क़िस्‍म",
+		"contentType": ["टेक्स्ट", "आवाज़", "वीडियो"],
+		"audioText": {
+			"upload": "अपलोड",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

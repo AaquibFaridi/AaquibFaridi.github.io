@@ -1,0 +1,612 @@
+{
+	"EditProfile": {
+		"heading": "Редактировать профиль",
+		"subSection1": "счет",
+		"subSection2": "информация",
+		"salutaion": "приветствие",
+		"firstname": "имя",
+		"middlename": "Среднее имя",
+		"lastname": "фамилия",
+		"primaryEmail": "Первичная электронная почта",
+		"primaryContact": "Первичный контакт",
+		"secondaryEmail": "Вторичная электронная почта",
+		"secondaryContact": "Вторичный контакт",
+		"dob": "Дата рождения",
+		"resetButton": "сброс",
+		"saveButton": "Сохранить изменения",
+		"personalInfo": "Личная информация",
+		"address": "адрес",
+		"addressline1": "Адресная строка 1",
+		"addressline2": "Адресная линия 2",
+		"pincode": "Пин-код",
+		"city": "город",
+		"state": "государство",
+		"country": "страна",
+		"communication": "коммуникация",
+		"email": "Электронная почта",
+		"SMS": "СМС",
+		"phone": "Телефон",
+		"theme": "тема",
+		"dark": "темный",
+		"light": "свет",
+		"gender": "род",
+		"male": "мужской",
+		"female": "женский",
+		"others": "Другие",
+		"pwdText": "Пароль Показать время в пароле Vault",
+		"time1": "3 секунды",
+		"time2": "5 секунд",
+		"time3": "10 секунд",
+		"languagesholder": "Язык",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "портфель",
+		"Assets List": "Список активов",
+		"Liabilities List": "Список обязательств"
+	},
+	"Spends": {
+		"heading": "Ежедневные расходы",
+		"subHeading": "Добавить новые расходы",
+		"totalCount": "Итого количество",
+		"searchText": "Поиск тратит журнал",
+		"cancelButton": "Отмена",
+		"addButton": "добавлять",
+		"updateButton": "обновлять",
+		"acceptButton": "принимать",
+		"messageOptionText": "Выберите тип сообщения",
+		"itemText": "пункт",
+		"labelText": "ярлык",
+		"dateText": "дата",
+		"amountText": "количество",
+		"descriptionText": "описание",
+		"labels": {
+			"Groceries": "Lebensmittel",
+			"Cigretes": " Zigarette",
+			"Drink": "Trinken",
+			"Party": "Partei",
+			"Fees": "Gebühren",
+			"Rent": "Mieten",
+			"Travel": "reise",
+			"Snacks": "Snacks",
+			"Fuel": "Kraftstoff",
+			"others": "Andere"
+		},
+		"filtersText": "Filter"
+	},
+	"Diary": {
+		"heading": "Секретный дневник",
+		"subHeading": "Добавить Примечание",
+		"cancelButton": "Отмена",
+		"addNotes": "Добавить заметки",
+		"addButton": "добавлять",
+		"updateButton": "обновлять",
+		"acceptButton": "принимать",
+		"messageOptionText": "Выберите тип сообщения",
+		"titleText": "титул",
+		"labelsText": "Метки",
+		"allText": "все",
+		"updateText": "Примечание об обновлении",
+		"searchText": "искать",
+		"labels": ["личный", "профессиональный", "Другие", "Список DO"],
+		"filtersText": "Фильтры",
+		"filter": ["усеянный", "важный", "завершённый", "Разгромили"],
+		"descriptionText": "описание",
+		"contentType": ["СМС", "царапать", "прикрепление", "голос", "видео"]
+	},
+	"Documents": {
+		"heading": "Мои документы",
+		"subHeading": "Загрузить любой файл, сканирование, документы",
+		"resetButton": "сброс",
+		"addButton": "Добавить документ",
+		"acceptButton": "принимать",
+		"documentsForText": "Документы для",
+		"mandatoryText": "Обязательное поле отсутствует!",
+		"documentsPreviewText": "Предварительный просмотр выбранных файлов",
+		"documentsDragText": "Перетащите 'n' падение некоторых файлов здесь, или нажмите, чтобы выбрать файлы",
+		"documentsVisibilityText": "Ваши документы будут видны только в течение 5 секунд!",
+		"documentsPopText": "",
+		"aliasText": "Имя приложения / Прозвище",
+		"descriptionText": "описание",
+		"dateText": "Дата истечения срока годности",
+		"documentsOptionText": "Выберите тип документов"
+	},
+	"Nominee": {
+		"heading": "Управление номинантами",
+		"subHeading": "ДОБАВЛЕНИЕ НОВОГО НОМИНАНТА",
+		"cancelButton": "Отмена",
+		"addButton": "добавлять",
+		"acceptButton": "принимать",
+		"textList": "Список обязательств",
+		"nomineeAddText": "Добавить нового номинанта",
+		"searchText": "Найти номинантов",
+		"nomineeTotalText": "Итого количество",
+		"nomineeTableName": "имя",
+		"nomineeTableRelation": "отношение",
+		"nomineeTableEmail": "Электронная почта",
+		"nomineeTableContact": "контакт",
+		"nomineeTableActions": "Действия",
+		"nomineeFormName": "имя",
+		"nomineeFormRelation": "отношение",
+		"nomineeFormEmail": "Электронная почта",
+		"nomineeFormAddress": "адрес",
+		"nomineeFormContact": "контакт",
+		"nomineeFormSecondaryContact": "Вторичный контакт",
+		"nomineeFormActions": "Действия",
+		"nomineeNameHolder": "Имя номинанта",
+		"nomineeRelationOption": {
+			"Son": "звук",
+			"Daughter": "дочь",
+			"Husband": "муж",
+			"Wife": "жена",
+			"Son-in-law": "зять",
+			"Daughter-in-law": "невестка",
+			"Cousin": "двоюродный брат",
+			"Friend": "друг",
+			"Colleague": "коллега",
+			"others": "Другие"
+		},
+		"nomineeEmailHolder": "Введите Номинальный Email",
+		"nomineeAddressHolder": "адрес",
+		"nomineeContactHolder": "Введите номер контакта Primary",
+		"nomineeSecondaryContactHolder": "Введите номер вторичного контакта",
+		"nomineeActionsHolder": "Действия"
+	},
+	"Password": {
+		"heading": "задолженность",
+		"subHeading": "Добавить новый пароль",
+		"resetButton": "сброс",
+		"addButton": "добавлять",
+		"acceptButton": "принимать",
+		"textList": "Список обязательств",
+		"pwdForText": "Пароль для",
+		"mandatoryText": "Обязательное поле отсутствует!",
+		"pwdIdentityText": "Подтвердите свою личность",
+		"pwdDeleteText": "Пароль успешно удален",
+		"pwdVisibilityText": "Ваш пароль будет виден только в течение 5 секунд!",
+		"pwdPopText": "Введите пароль для входа в систему",
+		"pwsSavedText": "Сохраненные пароли",
+		"passwordText": "Пароль",
+		"userNameText": "Имя пользователя",
+		"passwordOptionText": "Выберите тип пароля",
+		"passwordOption": {
+			"Bank": "банк",
+			"Email": "Электронная почта",
+			"Card": "карточка",
+			"Social": "общественный",
+			"HealthCare": "здравоохранение",
+			"App": "приложение",
+			"Government": "правительство",
+			"Office": "офис",
+			"Educational": "образовательный",
+			"E-commerce": "Электронная коммерция",
+			"Finance": "финансировать",
+			"Custom": "обычай"
+		}
+	},
+	"Liability": {
+		"heading": "задолженность",
+		"subHeading": "Добавить новые обязательства",
+		"resetButton": "сброс",
+		"submitButton": "Отправить",
+		"textList": "Список обязательств",
+		"liabilityOptionText": "Выберите тип ответственности",
+		"nomineeOption": "Выберите номинантов",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "Имя ответственности",
+					"val": "",
+					"type": "СМС"
+				}
+			],
+			"Notes": [
+				{
+					"key": "примечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Дата истечения срока годности",
+					"val": "",
+					"type": "дата"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "Название банка",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Лимит карты",
+					"val": "",
+					"type": "число"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "Название банка",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Номер кредитного счета",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Сумма займа",
+					"val": "",
+					"type": "число"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "Название банка",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Номер полиса",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Сумма полиса",
+					"val": "",
+					"type": "число"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "Название объекта",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Гарантийный период",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Сумма счета",
+					"val": "",
+					"type": "число"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "Description",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Return Period",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Amount",
+					"val": "",
+					"type": "число"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "Название объекта",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Description",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Expiry",
+					"val": "",
+					"type": "число"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "обычай",
+			"Notes": "примечания",
+			"Credit Card": "кредитная карта",
+			"Loan Amount": "Сумма займа",
+			"Insurance": "страхование",
+			"Warranty": "гарантия",
+			"Ponzi": "Понци",
+			"Receipt": "квитанция"
+		}
+	},
+	"Asset": {
+		"heading": "авуары",
+		"subHeading": "Добавление новых активов",
+		"resetButton": "сброс",
+		"submitButton": "Отправить",
+		"textList": "Список активов",
+		"assetOptionText": "Выберите тип активов",
+		"nomineeOption": "Выберите тип номинанта",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "Название актива",
+					"val": "",
+					"type": "СМС"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "Номер учетной записи",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Название банка",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "ветка",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "Текстарея"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD Аккрунт Нет",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Сумма FD",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Название банка",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Дата погашения FD",
+					"val": "",
+					"type": "дата"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Policy": [
+				{
+					"key": "Номер полиса",
+					"val": "",
+					"type": "number"
+				},
+				{
+					"key": "Policy Name",
+					"val": "",
+					"type": "text"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Property": [
+				{
+					"key": "Property Type",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Property Location",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Property Area",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "Portfolio No",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Value",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Type",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF No",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "Gratuity No",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "Bill Name",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Debtor Date*",
+					"val": "",
+					"type": "дата"
+				},
+				{
+					"key": "Bill Amount",
+					"val": "",
+					"type": "число"
+				},
+				{
+					"key": "Expiry Date",
+					"val": "",
+					"type": "дата"
+				},
+				{
+					"key": "Warraty Period (if applicable)",
+					"val": "",
+					"type": "СМС"
+				},
+				{
+					"key": "Комментарии/ Замечания",
+					"val": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Вложения",
+					"val": "",
+					"type": "файл"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "Банковские реквизиты",
+			"Fixed Deposit": "Фиксированный депозит",
+			"Policy": "политика",
+			"Property": "свойство",
+			"Mutual Fund": "Взаимный фонд",
+			"Provident Fund": "Провидентный фонд",
+			"Gratuity": "чаевые",
+			"Bills & Credits": "Получение / Билл"
+		}
+	},
+	"Dashboard": {
+		"asset": "актив",
+		"assetText": "Банковские реквизиты, FD, RD, Страхование, Недвижимость и т.д.",
+		"liability": "задолженность",
+		"liabilityText": "Кредит, EMI, наличные заемные средства и т.д. с залоговыми деталями",
+		"vault": "склеп",
+		"vaultText": "Сохраните свои пароли, такие как карты, учетные данные в вашем секретном хранилище.",
+		"nominees": "Кандидатов",
+		"nomineesText": "Управление номинантами по своим активам и обязательствам",
+		"spends": " Ежедневные расходы",
+		"spendsText": "Войти ваши ежедневные расходы в вашем секрете тратит список и анализировать ваши spenditure.",
+		"documents": "Документы",
+		"documentsText": "Загрузите документы, фото в собственном секретном хранилище",
+		"diary": "Секретный дневник",
+		"diaryText": "Завехайте свои ежедневные мысли и секреты в свой собственный секретный дневник",
+		"portfolio": "портфель",
+		"portfolioText": "Просмотр и анализ портфеля сохраненных активов и обязательств"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "передатчик",
+		"subHeading": "Сохранить, запланировать, отправить текст, аудио, видео-сообщения",
+		"cancelButton": "Отмена",
+		"addButton": "добавлять",
+		"updateButton": "обновлять",
+		"deleteButton": "удалить",
+		"messageOptionText": "Выберите тип сообщения",
+		"titleText": "титул",
+		"allText": "все",
+		"updateText": "Примечание об обновлении",
+		"searchText": "искать",
+		"descriptionText": "описание",
+		"contentType": ["СМС", "голос", "видео"],
+		"audioText": {
+			"upload": "закачать",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

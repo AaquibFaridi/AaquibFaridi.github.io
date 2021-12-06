@@ -1,0 +1,295 @@
+{
+	"Bank Holdings": [
+		{
+			"key": "Bank Name *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Account Details *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Bills & Credits": [
+		{
+			"key": "Debtor Name *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Cash Holdings": [
+		{
+			"key": "Details",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Cryptocurrency": [
+		{
+			"key": "Currency Details",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Funds & Deposit": [
+		{
+			"key": "Depositor *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Account Details *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Investments": [
+		{
+			"key": "Investment Firm *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Account Details *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Metals & Jewellery": [
+		{
+			"key": "Details",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount / Quantity",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Policies": [
+		{
+			"key": "Policy Number *",
+			"val": "",
+			"type": "number",
+			"mandatory": true
+		},
+
+		{
+			"key": "Policy Name *",
+			"val": "",
+			"type": "text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Property": [
+		{
+			"key": "Property Type *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Property Location *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Property Area *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Retirals": [
+		{
+			"key": "Retirals Details *",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount *",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	],
+	"Others": [
+		{
+			"key": "Asset Name",
+			"val": "",
+			"type": "Text",
+			"mandatory": true
+		},
+		{
+			"key": "Amount",
+			"val": "",
+			"type": "Number",
+			"mandatory": true
+		},
+		{
+			"key": "Remarks",
+			"val": "",
+			"type": "Text"
+		},
+		{
+			"key": "Attachments",
+			"val": "",
+			"type": "File"
+		}
+	]
+}

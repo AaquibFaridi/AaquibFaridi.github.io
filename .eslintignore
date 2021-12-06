@@ -1,0 +1,4 @@
+src/**/*.test.js
+*/**/App.test.js
+*/**/common/Map/SearchBox.js
+*/**/src-sw.js

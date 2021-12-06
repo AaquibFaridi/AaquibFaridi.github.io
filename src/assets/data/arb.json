@@ -1,0 +1,596 @@
+{
+	"EditProfile": {
+		"heading": "تحرير ملف التعريف",
+		"subSection1": "حساب",
+		"subSection2": "معلومات",
+		"salutaion": "التحيه",
+		"firstname": "الاسم الأول",
+		"middlename": "الاسم الأوسط",
+		"lastname": "اسم العائلة",
+		"primaryEmail": "البريد الإلكتروني الأساسي",
+		"primaryContact": "جهة الاتصال الأساسية",
+		"secondaryEmail": "البريد الإلكتروني الثانوي",
+		"secondaryContact": "جهة الاتصال الثانوية",
+		"dob": "تاريخ الميلاد",
+		"resetButton": "اعاده تعيين",
+		"saveButton": "حفظ التغييرات",
+		"personalInfo": "معلومات شخصية",
+		"address": "عنوان",
+		"addressline1": "سطر العنوان الأول",
+		"addressline2": "سطر العنوان الثاني",
+		"pincode": "رمز الدبوس",
+		"city": "مدينة",
+		"state": "حالة",
+		"country": "بلد",
+		"communication": "انتقال",
+		"email": "البريد الإلكتروني",
+		"SMS": "الرسائل القصيرة",
+		"phone": "الهاتف",
+		"theme": "موضوع",
+		"dark": "داكن",
+		"light": "ضوء",
+		"gender": "جنس",
+		"male": "ذكر",
+		"female": "أنثى",
+		"others": "الاخرين",
+		"pwdText": "كلمة المرور إظهار الوقت في قبو كلمة المرور",
+		"time1": "3 ثوان",
+		"time2": "5 ثوان",
+		"time3": "10 ثوان",
+		"languagesholder": "اللغة",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+
+	"Portfolio": {
+		"Portfolio": "استثمارات",
+		"Assets List": "قائمة الأصول",
+		"Liabilities List": "قائمة الالتزامات"
+	},
+
+	"Spends": {
+		"heading": "الإنفاق اليومي",
+		"subHeading": "إضافة إنفاق جديد",
+		"totalCount": "إجمالي عدد",
+		"searchText": "بحث تنفق سجل",
+		"cancelButton": "إلغاء الأمر",
+		"addButton": "جمع",
+		"updateButton": "تحديث",
+		"acceptButton": "تقبل",
+		"messageOptionText": "تحديد نوع الرسالة",
+		"itemText": "بند",
+		"labelText": "تسميه",
+		"dateText": "تاريخ",
+		"amountText": "مبلغ",
+		"descriptionText": "وصف",
+		"labels": {
+			"Groceries": "البقاله",
+			"Cigretes": " سيجارة",
+			"Drink": "شرب",
+			"Party": "طرف",
+			"Fees": "رسوم",
+			"Rent": "استأجر",
+			"Travel": "سفر",
+			"Snacks": "الوجبات الخفيفه",
+			"Fuel": "وقود",
+			"others": "الاخرين"
+		},
+		"filtersText": "مرشحات"
+	},
+
+	"Diary": {
+		"heading": "مذكرات سرية",
+		"subHeading": "إضافة ملاحظة",
+		"cancelButton": "إلغاء الأمر",
+		"addNotes": "إضافة ملاحظات",
+		"addButton": "جمع",
+		"updateButton": "تحديث",
+		"acceptButton": "تقبل",
+		"messageOptionText": "تحديد نوع الرسالة",
+		"titleText": "عنوان",
+		"labelsText": "تسميات",
+		"allText": "كل",
+		"updateText": "تحديث ملاحظة",
+		"searchText": "بحث",
+		"labels": ["شخصي", "محترف", "الاخرين", "قائمة المهام"],
+		"filtersText": "مرشحات",
+		"filter": ["نجمه", "مهم", "اكمال", "الحضيض"],
+		"descriptionText": "وصف",
+		"contentType": ["نص", "شخبط", "مرفق", "صوت", "فيديو"]
+	},
+
+	"Documents": {
+		"heading": "مستنداتي",
+		"subHeading": "تحميل أي ملف، مسح، وثائق",
+		"resetButton": "اعاده تعيين",
+		"addButton": "إضافة مستند",
+		"acceptButton": "تقبل",
+		"documentsForText": "وثائق ل",
+		"mandatoryText": "حقل إلزامي مفقود!",
+		"documentsPreviewText": "معاينة الملفات المحددة",
+		"documentsDragText": "اسحب 'n' إسقاط بعض الملفات هنا، أو انقر لتحديد الملفات",
+		"documentsVisibilityText": "وثائقك ستكون مرئية فقط لمدة 5 ثوان!",
+		"documentsPopText": "",
+		"aliasText": "اسم المرفق / الاسم المستعار",
+		"descriptionText": "وصف",
+		"dateText": "تاريخ انتهاء الصلاحية",
+		"documentsOptionText": "تحديد نوع المستندات"
+	},
+
+	"Nominee": {
+		"heading": "إدارة المرشحين",
+		"subHeading": "إضافة مرشح جديد",
+		"cancelButton": "إلغاء الأمر",
+		"addButton": "جمع",
+		"acceptButton": "تقبل",
+		"textList": "قائمة الالتزامات",
+		"nomineeAddText": "إضافة مرشح جديد",
+		"searchText": "البحث عن المرشحين",
+		"nomineeTotalText": "إجمالي عدد",
+		"nomineeTableName": "اسم",
+		"nomineeTableRelation": "علاقه",
+		"nomineeTableEmail": "البريد الإلكتروني",
+		"nomineeTableContact": "الاتصال",
+		"nomineeTableActions": "الاجراءات",
+		"nomineeFormName": "اسم",
+		"nomineeFormRelation": "علاقه",
+		"nomineeFormEmail": "البريد الإلكتروني",
+		"nomineeFormAddress": "عنوان",
+		"nomineeFormContact": "الاتصال",
+		"nomineeFormSecondaryContact": "جهة الاتصال الثانوية",
+		"nomineeFormActions": "الاجراءات",
+		"nomineeNameHolder": "اسم المرشح",
+		"nomineeRelationOption": {
+			"Son": "صوت",
+			"Daughter": "ابنة",
+			"Husband": "زوج",
+			"Wife": "زوجة",
+			"Son-in-law": "زوج الابن",
+			"Daughter-in-law": "زوجة الابن",
+			"Cousin": "ابن عم",
+			"Friend": "صديق",
+			"Colleague": "زميل",
+			"others": "الاخرين"
+		},
+		"nomineeEmailHolder": "أدخل البريد الإلكتروني للمرشح",
+		"nomineeAddressHolder": "عنوان",
+		"nomineeContactHolder": "أدخل رقم جهة الاتصال الأساسية.",
+		"nomineeSecondaryContactHolder": "أدخل رقم جهة الاتصال الثانوية.",
+		"nomineeActionsHolder": "الاجراءات"
+	},
+
+	"Password": {
+		"heading": "خصوم",
+		"subHeading": "إضافة كلمة مرور جديدة",
+		"resetButton": "اعاده تعيين",
+		"addButton": "جمع",
+		"acceptButton": "تقبل",
+		"textList": "قائمة الالتزامات",
+		"pwdForText": "كلمة المرور ل",
+		"mandatoryText": "حقل إلزامي مفقود!",
+		"pwdIdentityText": "تأكيد هويتك",
+		"pwdDeleteText": "تم حذف كلمة المرور بنجاح",
+		"pwdVisibilityText": "ستكون كلمة مرورك مرئية لمدة 5 ثوانٍ فقط!",
+		"pwdPopText": "أدخل كلمة مرور تسجيل الدخول للمتابعة",
+		"pwsSavedText": "كلمات المرور المحفوظة",
+		"passwordText": "كلمة المرور",
+		"userNameText": "اسم المستخدم",
+		"passwordOptionText": "اختر نوع كلمة المرور",
+		"passwordOption": {
+			"heading": "واجبات",
+			"subHeading": "نیا پاس ورڈ اضافہ کریں",
+			"resetButton": "سیٹ",
+			"addButton": "اضافہ کرنا",
+			"acceptButton": "قبول کرنا",
+			"textList": "واجبات فہرست",
+			"pwdForText": "پاس ورڈ برائے",
+			"mandatoryText": "لازمی فیلڈ غائب!"
+		}
+	},
+
+	"Liability": {
+		"heading": "خصوم",
+		"subHeading": "إضافة مسؤولية جديدة",
+		"resetButton": "اعاده تعيين",
+		"submitButton": "إرسال",
+		"textList": "قائمة الالتزامات",
+		"liabilityOptionText": "تحديد نوع المسؤولية",
+		"nomineeOption": "اختر المرشحين",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "اسم ليبيلتي",
+					"value": "",
+					"type": "نص"
+				}
+			],
+			"Notes": [
+				{
+					"key": "تلاحظ",
+					"value": "",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "تاريخ انتهاء الصلاحية",
+					"value": "",
+					"type": "تاريخ"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "اسم البنك",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "حد البطاقة",
+					"value": "",
+					"type": "رقم"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "اسم البنك",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "رقم حساب القرض",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "مبلغ القرض",
+					"value": "",
+					"type": "رقم"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "اسم البنك",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "رقم السياسة",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "مبلغ السياسة",
+					"value": "",
+					"type": "رقم"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "اسم الكائن",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "فترة الضمان",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "مبلغ الفاتورة",
+					"value": "",
+					"type": "رقم"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "وصف",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "فترة الإرجاع",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "مبلغ",
+					"value": "",
+					"type": "رقم"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "اسم الكائن",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "وصف",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "انتهاء",
+					"value": "",
+					"type": "رقم"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "تقليد",
+			"Notes": "تلاحظ",
+			"Credit Card": "بطاقة الائتمان",
+			"Loan Amount": "مبلغ القرض",
+			"Insurance": "تأمين",
+			"Warranty": "الضمان",
+			"Ponzi": "بونزي",
+			"Receipt": "وصل"
+		}
+	},
+
+	"Asset": {
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "اسم الأصل",
+					"value": "",
+					"type": "نص"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "رقم الحساب",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "اسم البنك",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "فرع",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"value": "",
+					"type": "منطقة النص"
+				},
+				{
+					"key": "المرفقات",
+					"value": "",
+					"type": "ملف"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD أكرونت رقم",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "مبلغ FD",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "اسم البنك",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "تاريخ استحقاق FD",
+					"value": "",
+					"type": "تاريخ"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"value": "",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"value": "",
+					"type": "ملف"
+				}
+			],
+			"Policy": [
+				{
+					"key": "رقم السياسة",
+					"type": "رقم"
+				},
+				{
+					"key": "اسم النهج",
+					"type": "نص"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"type": "ملف"
+				}
+			],
+			"Property": [
+				{
+					"key": "نوع الخاصية",
+					"type": "نص"
+				},
+				{
+					"key": "موقع العقار",
+					"type": "نص"
+				},
+				{
+					"key": "منطقة العقار",
+					"type": "نص"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"type": "ملف"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "رقم المحفظة",
+					"type": "رقم"
+				},
+				{
+					"key": "قيمة",
+					"type": "رقم"
+				},
+				{
+					"key": "نوع",
+					"type": "نص"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"type": "ملف"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "رقم صندوق المعاشات التقاعدية",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"value": "",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"value": "",
+					"type": "ملف"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "الإكرامية رقم",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"value": "",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"value": "",
+					"type": "ملف"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "اسم الفاتورة",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "تاريخ الفاتورة",
+					"value": "",
+					"type": "تاريخ"
+				},
+				{
+					"key": "مبلغ الفاتورة",
+					"value": "",
+					"type": "رقم"
+				},
+				{
+					"key": "تاريخ انتهاء الصلاحية",
+					"value": "",
+					"type": "تاريخ"
+				},
+				{
+					"key": "فترة الواري (إن وجدت)",
+					"value": "",
+					"type": "نص"
+				},
+				{
+					"key": "تعليقات / ملاحظات",
+					"value": "",
+					"type": "منطقة نصية"
+				},
+				{
+					"key": "المرفقات",
+					"value": "",
+					"type": "ملف"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "تفاصيل البنك",
+			"Fixed Deposit": "الوديعة الثابتة",
+			"Policy": "السياسات",
+			"Property": "مال",
+			"Mutual Fund": "صندوق الاستثمار المشترك",
+			"Provident Fund": "صندوق الادخار",
+			"Gratuity": "بخشيش",
+			"Bills & Credits": "الإيصال / الفاتورة"
+		}
+	},
+
+	"Dashboard": {
+		"asset": "ذخر",
+		"assetText": "تفاصيل البنك، FD، RD، التأمين، الممتلكات الخ.",
+		"liability": "خصوم",
+		"liabilityText": "القرض، EMI، النقدية المقترضة الخ مع تفاصيل الضمان",
+		"vault": "قبو",
+		"vaultText": "حفظ كلمات السر الخاصة بك مثل بطاقات، وثائق التفويض في قبو السري الخاص بك.",
+		"nominees": "المرشحين",
+		"nomineesText": "إدارة المرشحين لأصولك وخصومك",
+		"spends": " الإنفاق اليومي",
+		"spendsText": "تسجيل إنفاقك اليومي في قائمة الإنفاق السري الخاص بك وتحليل الإنفاق الخاص بك.",
+		"documents": "الوثائق",
+		"documentsText": "تحميل المستندات، بلدان جزر المحيط الهادئ في قبو السرية الخاصة بك",
+		"diary": "مذكرات سرية",
+		"diaryText": "سجل أفكارك اليومية وأسرارك في مذكراتك السرية الخاصة",
+		"portfolio": "استثمارات",
+		"portfolioText": "عرض وتحليل محفظتك للأصول والخصوم المحفوظة"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "الارسال",
+		"subHeading": "حفظ، جدولة، إرسال رسائل نصية وصوتية وفيديو",
+		"cancelButton": "إلغاء الأمر",
+		"addButton": "جمع",
+		"updateButton": "تحديث",
+		"deleteButton": "حذف",
+		"messageOptionText": "تحديد نوع الرسالة",
+		"titleText": "عنوان",
+		"allText": "كل",
+		"updateText": "تحديث ملاحظة",
+		"searchText": "بحث",
+		"descriptionText": "وصف",
+		"contentType": ["نص", "صوت", "فيديو"],
+		"audioText": {
+			"upload": "رفع",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}

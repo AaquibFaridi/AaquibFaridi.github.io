@@ -1,0 +1,604 @@
+{
+	"EditProfile": {
+		"heading": "Editar perfil",
+		"subSection1": "cuenta",
+		"subSection2": "información",
+		"salutaion": "saludo",
+		"firstname": "nombre",
+		"middlename": "segundo nombre",
+		"lastname": "apellido",
+		"primaryEmail": "Correo electrónico principal",
+		"primaryContact": "Contacto principal",
+		"secondaryEmail": "Correo electrónico secundario",
+		"secondaryContact": "Contacto secundario",
+		"dob": "Fecha de nacimiento",
+		"resetButton": "restablecimiento",
+		"saveButton": "Guardar cambios",
+		"personalInfo": "Información personal",
+		"address": "dirección",
+		"addressline1": "Línea de dirección uno",
+		"addressline2": "Línea de dirección dos",
+		"pincode": "Código pin",
+		"city": "ciudad",
+		"state": "estado",
+		"country": "país",
+		"communication": "comunicación",
+		"email": "Correo electrónico",
+		"SMS": "SMS",
+		"phone": "Teléfono",
+		"theme": "tema",
+		"dark": "oscuro",
+		"light": "luz",
+		"gender": "género",
+		"male": "masculino",
+		"female": "hembra",
+		"others": "otros",
+		"pwdText": "Contraseña Mostrar tiempo en Password Vault",
+		"time1": "3 segundos",
+		"time2": "5 segundos",
+		"time3": "10 segundos",
+		"languagesholder": "Idioma",
+		"languages": {
+			"Chinese": "中国人",
+			"English": "English",
+			"French": "français",
+			"Hindi": "हिंदी",
+			"Portuguese": "português",
+			"Urdu": "اردو"
+		}
+	},
+	"Portfolio": {
+		"Portfolio": "cartera",
+		"Assets List": "Lista de activos",
+		"Liabilities List": "Lista de pasivos"
+	},
+	"Spends": {
+		"heading": "Gastos diarios",
+		"subHeading": "Añadir nuevo gasto",
+		"totalCount": "Recuento total",
+		"searchText": "Registro de gastos de búsqueda",
+		"cancelButton": "Cancelar",
+		"addButton": "agregar",
+		"updateButton": "actualizar",
+		"acceptButton": "aceptar",
+		"messageOptionText": "Seleccionar tipo de mensaje",
+		"itemText": "artículo",
+		"labelText": "etiqueta",
+		"dateText": "fecha",
+		"amountText": "importe",
+		"descriptionText": "descripción",
+		"labels": {
+			"Groceries": "продукты",
+			"Cigretes": " сигарета",
+			"Drink": "пить",
+			"Party": "партия",
+			"Fees": "Сборы",
+			"Rent": "аренда",
+			"Travel": "путешествовать",
+			"Snacks": "Закуски",
+			"Fuel": "топливо",
+			"others": "Другие"
+		},
+		"filtersText": "Фильтры"
+	},
+	"Diary": {
+		"heading": "Diario secreto",
+		"subHeading": "Añadir nota",
+		"cancelButton": "Cancelar",
+		"addNotes": "Añadir notas",
+		"addButton": "agregar",
+		"updateButton": "actualizar",
+		"acceptButton": "aceptar",
+		"messageOptionText": "Seleccionar tipo de mensaje",
+		"titleText": "título",
+		"labelsText": "Etiquetas",
+		"allText": "todo",
+		"updateText": "Nota de actualización",
+		"searchText": "buscar",
+		"labels": ["personal", "profesional", "otros", "PARA HACER LISTA"],
+		"filtersText": "filtros",
+		"filter": ["estrellado", "importante", "completado", "destrozado"],
+		"descriptionText": "descripción",
+		"contentType": [
+			"Mensaje de texto",
+			"garabatear",
+			"archivo adjunto",
+			"voz",
+			"vídeo"
+		]
+	},
+	"Documents": {
+		"heading": "Mis documentos",
+		"subHeading": "Cargue cualquier archivo, escaneo, documentos",
+		"resetButton": "restablecimiento",
+		"addButton": "Añadir documento",
+		"acceptButton": "aceptar",
+		"documentsForText": "Documentos para",
+		"mandatoryText": "¡Falta obligatorio en el campo!",
+		"documentsPreviewText": "Vista previa de los archivos seleccionados",
+		"documentsDragText": "Arrastre 'n' soltar algunos archivos aquí, o Haga clic para seleccionar archivos",
+		"documentsVisibilityText": "¡Sus documentos solo estarán visibles durante 5 segundos!",
+		"documentsPopText": "",
+		"aliasText": "Nombre del archivo adjunto / Alias",
+		"descriptionText": "descripción",
+		"dateText": "fecha de caducidad",
+		"documentsOptionText": "Seleccionar tipo de documentos"
+	},
+	"Nominee": {
+		"heading": "Gestionar nominados",
+		"subHeading": "AÑADIR NUEVO NOMINADO",
+		"cancelButton": "Cancelar",
+		"addButton": "agregar",
+		"acceptButton": "aceptar",
+		"textList": "Lista de pasivos",
+		"nomineeAddText": "Añadir nuevo nominado",
+		"searchText": "Encontrar nominados",
+		"nomineeTotalText": "Recuento total",
+		"nomineeTableName": "nombre",
+		"nomineeTableRelation": "relación",
+		"nomineeTableEmail": "Correo electrónico",
+		"nomineeTableContact": "contacto",
+		"nomineeTableActions": "Acciones",
+		"nomineeFormName": "nombre",
+		"nomineeFormRelation": "relación",
+		"nomineeFormEmail": "Correo electrónico",
+		"nomineeFormAddress": "dirección",
+		"nomineeFormContact": "contacto",
+		"nomineeFormSecondaryContact": "Contacto secundario",
+		"nomineeFormActions": "Acciones",
+		"nomineeNameHolder": "Nombre del candidato",
+		"nomineeRelationOption": {
+			"Son": "sonido",
+			"Daughter": "hija",
+			"Husband": "marido",
+			"Wife": "esposa",
+			"Son-in-law": "yerno",
+			"Daughter-in-law": "nuera",
+			"Cousin": "primo",
+			"Friend": "amigo",
+			"Colleague": "colega",
+			"others": "otros"
+		},
+		"nomineeEmailHolder": "Introduzca el correo electrónico del candidato",
+		"nomineeAddressHolder": "dirección",
+		"nomineeContactHolder": "Introduzca el contacto principal No.",
+		"nomineeSecondaryContactHolder": "Introduzca contacto secundario No.",
+		"nomineeActionsHolder": "Acciones"
+	},
+	"Password": {
+		"heading": "pasivo",
+		"subHeading": "Añadir nueva contraseña",
+		"resetButton": "restablecimiento",
+		"addButton": "agregar",
+		"acceptButton": "aceptar",
+		"textList": "Lista de pasivos",
+		"pwdForText": "Contraseña para",
+		"mandatoryText": "¡Falta obligatorio en el campo!",
+		"pwdIdentityText": "Confirme su identidad",
+		"pwdDeleteText": "Contraseña eliminada correctamente",
+		"pwdVisibilityText": "¡Su contraseña solo será visible durante 5 segundos!",
+		"pwdPopText": "Ingrese su contraseña de inicio de sesión para continuar",
+		"pwsSavedText": "Contraseñas guardadas",
+		"passwordText": "Contraseña",
+		"userNameText": "Nombre de usuario",
+		"passwordOptionText": "Seleccione el tipo de contraseña",
+		"passwordOption": {
+			"Bank": "banco",
+			"Email": "Correo electrónico",
+			"Card": "tarjeta",
+			"Social": "social",
+			"HealthCare": "atención sanitaria",
+			"App": "aplicación",
+			"Government": "gobierno",
+			"Office": "oficina",
+			"Educational": "educativo",
+			"E-commerce": "comercio electrónico",
+			"Finance": "finanzas",
+			"Custom": "costumbre"
+		}
+	},
+	"Liability": {
+		"heading": "pasivo",
+		"subHeading": "Añadir nueva responsabilidad",
+		"resetButton": "restablecimiento",
+		"submitButton": "Enviar",
+		"textList": "Lista de pasivos",
+		"liabilityOptionText": "Seleccionar tipo de responsabilidad",
+		"nomineeOption": "Seleccionar nominados",
+		"liabilityOption": {
+			"Custom": [
+				{
+					"key": "Nombre de Liability",
+					"value": "",
+					"type": "Mensaje de texto"
+				}
+			],
+			"Notes": [
+				{
+					"key": "Notas",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "fecha de caducidad",
+					"value": "",
+					"type": "fecha"
+				}
+			],
+			"Credit Card": [
+				{
+					"key": "Nombre del banco",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Límite de tarjeta",
+					"value": "",
+					"type": "número"
+				}
+			],
+			"Loan Amount": [
+				{
+					"key": "Nombre del banco",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Número de cuenta de préstamo",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Monto del préstamo",
+					"value": "",
+					"type": "número"
+				}
+			],
+			"Insurance": [
+				{
+					"key": "Nombre del banco",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Número de póliza",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Importe de la póliza",
+					"value": "",
+					"type": "número"
+				}
+			],
+			"Warranty": [
+				{
+					"key": "Nombre del objeto",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Período de garantía",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Monto de la factura",
+					"value": "",
+					"type": "número"
+				}
+			],
+			"Ponzi": [
+				{
+					"key": "descripción",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Período de devolución",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "importe",
+					"value": "",
+					"type": "número"
+				}
+			],
+			"Receipt": [
+				{
+					"key": "Nombre del objeto",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "descripción",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "expiración",
+					"value": "",
+					"type": "número"
+				}
+			]
+		},
+		"colorOption": {
+			"Custom": "costumbre",
+			"Notes": "Notas",
+			"Credit Card": "tarjeta de crédito",
+			"Loan Amount": "Monto del préstamo",
+			"Insurance": "seguro",
+			"Warranty": "garantía",
+			"Ponzi": "Ponzi",
+			"Receipt": "recibo"
+		}
+	},
+	"Asset": {
+		"heading": "activo",
+		"subHeading": "Añadir nuevo activo",
+		"resetButton": "restablecimiento",
+		"submitButton": "Enviar",
+		"textList": "Lista de activos",
+		"assetOptionText": "Seleccionar tipo de activo fijo",
+		"nomineeOption": "Seleccionar tipo de nominado",
+		"assetOption": {
+			"Custom": [
+				{
+					"key": "Nombre del activo",
+					"value": "",
+					"type": "Mensaje de texto"
+				}
+			],
+			"Bank Holdings": [
+				{
+					"key": "Cuenta No",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Nombre del banco",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "rama",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"value": "",
+					"type": "Textarea"
+				},
+				{
+					"key": "Accesorios",
+					"value": "",
+					"type": "archivo"
+				}
+			],
+			"Fixed Deposit": [
+				{
+					"key": "FD Accrount No",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Monto del DF",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Nombre del banco",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Fecha de vencimiento del DF",
+					"value": "",
+					"type": "fecha"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"value": "",
+					"type": "archivo"
+				}
+			],
+			"Policy": [
+				{
+					"key": "Número de póliza",
+					"type": "número"
+				},
+				{
+					"key": "Nombre de la política",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"type": "archivo"
+				}
+			],
+			"Property": [
+				{
+					"key": "Tipo de propiedad",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Ubicación de la propiedad",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Área de propiedad",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"type": "archivo"
+				}
+			],
+			"Mutual Fund": [
+				{
+					"key": "Cartera No",
+					"type": "número"
+				},
+				{
+					"key": "valor",
+					"type": "número"
+				},
+				{
+					"key": "tipo",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"type": "archivo"
+				}
+			],
+			"Provident Fund": [
+				{
+					"key": "EPF No",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"value": "",
+					"type": "archivo"
+				}
+			],
+			"Gratuity": [
+				{
+					"key": "Propina No",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"value": "",
+					"type": "archivo"
+				}
+			],
+			"Bills & Credits": [
+				{
+					"key": "Nombre de la factura",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Fecha de la factura",
+					"value": "",
+					"type": "fecha"
+				},
+				{
+					"key": "Monto de la factura",
+					"value": "",
+					"type": "número"
+				},
+				{
+					"key": "fecha de caducidad",
+					"value": "",
+					"type": "fecha"
+				},
+				{
+					"key": "Período de warraty (si corresponde)",
+					"value": "",
+					"type": "Mensaje de texto"
+				},
+				{
+					"key": "Comentarios/ Observaciones",
+					"value": "",
+					"type": "textarea"
+				},
+				{
+					"key": "Accesorios",
+					"value": "",
+					"type": "archivo"
+				}
+			]
+		},
+		"colorOption": {
+			"Bank Holdings": "Datos bancarios",
+			"Fixed Deposit": "Depósito fijo",
+			"Policy": "política",
+			"Property": "propiedad",
+			"Mutual Fund": "Fondo Mutuo",
+			"Provident Fund": "Caja de Previsión",
+			"Gratuity": "gratificación",
+			"Bills & Credits": "Recibo / Factura"
+		}
+	},
+	"Dashboard": {
+		"asset": "activo",
+		"assetText": "Datos bancarios, DF, RD, Seguros, Propiedades, etc.",
+		"liability": "pasivo",
+		"liabilityText": "Préstamo, EMI, efectivo prestado, etc. con detalles de garantía",
+		"vault": "bóveda",
+		"vaultText": "Guarde sus contraseñas como tarjetas, credenciales en su bóveda secreta.",
+		"nominees": "Nominados",
+		"nomineesText": "Gestione a sus nominados para sus activos y pasivos",
+		"spends": " Gastos diarios",
+		"spendsText": "Registra tus gastos diarios en tu lista de gastos secretos y analiza tu gasto.",
+		"documents": "Documentos",
+		"documentsText": "Suba documentos, fotos en su propia bóveda secreta",
+		"diary": "Diario secreto",
+		"diaryText": "Registra tus pensamientos y secretos diarios en tu propio diario secreto",
+		"portfolio": "cartera",
+		"portfolioText": "Vea y analice su cartera de activos y pasivos guardados"
+	},
+	"AlwaysOn": {
+		"msg1": "Last action before you bid good-----bye",
+		"msg2": "You might not have control over your last moment,",
+		"msg3": "But now you can control your last acton in this world",
+		"msg4": "Leave behind a peaceful world, free from family disputes",
+		"msg5": "That's what we say, Rest In Peace"
+	},
+	"Sender": {
+		"heading": "transmisor",
+		"subHeading": "Guardar, programar, enviar mensajes de texto, audio y vídeo",
+		"cancelButton": "Cancelar",
+		"addButton": "agregar",
+		"updateButton": "actualizar",
+		"deleteButton": "borrar",
+		"messageOptionText": "Seleccionar tipo de mensaje",
+		"titleText": "título",
+		"allText": "todo",
+		"updateText": "Nota de actualización",
+		"searchText": "buscar",
+		"descriptionText": "descripción",
+		"contentType": ["Mensaje de texto", "voz", "vídeo"],
+		"audioText": {
+			"upload": "subir",
+			"clear": "clear",
+			"newrecording": "New Recording",
+			"msg": "Press the microphone to record"
+		},
+		"VideoText": "Turn my camera On"
+	}
+}
